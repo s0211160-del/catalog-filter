@@ -2,8 +2,8 @@ name: Auto Run Catalog Filter
 
 on:
   schedule:
-    - cron: '0 20 * * *' # 每天台灣時間凌晨 04:00 自動執行 (UTC 20:00)
-  workflow_dispatch:     # 允許手動點擊按鈕執行
+    - cron: '0 20 * * *'
+  workflow_dispatch:
 
 jobs:
   build-and-deploy:
@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: 檢出專案程式碼
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: 設定 Python 環境
         uses: actions/setup-python@v5
@@ -32,6 +34,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add catalog.csv
+          git add catalog.csv .nojekyll || true
           git commit -m "Auto update catalog.csv" || exit 0
-          git push
+          git push origin main
