@@ -19,7 +19,7 @@ DESC_BLACKLIST = ["非賣品", "暫停銷售"]
 OUTPUT_FILENAME = "catalog.xml"
 # ==========================================
 
-# 註冊與定義 XML 命名空間 (SHOPLINE 與 FB/Google Catalog 標準格式)
+# 註冊與定義 SHOPLINE/Google/Meta XML 的標準命名空間
 NAMESPACES = {
     'g': 'http://base.google.com/ns/1.0',
     'atom': 'http://www.w3.org/2005/Atom'
@@ -27,14 +27,14 @@ NAMESPACES = {
 
 def get_node_text(item, tag_name):
     """
-    同時支援尋找帶有 g: 前綴 (如 g:title) 或無前綴 (如 title) 的節點內容
+    精準擷取節點文字，同時相容帶有 g: 命名空間與標準 XML 標籤
     """
-    # 1. 優先抓取帶有 g: 命名空間的標籤
+    # 1. 優先尋找帶有 g: 命名空間的標籤 (如 g:title, g:description)
     node = item.find(f'g:{tag_name}', NAMESPACES)
     if node is not None and node.text:
         return node.text.strip()
     
-    # 2. 備用抓取無前綴的標準標籤
+    # 2. 備用尋找標準標籤 (如 title, description)
     node = item.find(tag_name)
     if node is not None and node.text:
         return node.text.strip()
@@ -42,14 +42,15 @@ def get_node_text(item, tag_name):
     return ""
 
 def run_filter():
-    print("開始下載原始 XML...")
+    print("開始下載原始 SHOPLINE XML...")
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
     response = requests.get(XML_URL, headers=headers, timeout=30)
     response.raise_for_status()
 
+    # 解析 XML
     root = ET.fromstring(response.content)
     
-    # 自動辨識商品容器節點
+    # 定位商品的 channel 容器
     channel = root.find('channel')
     if channel is not None:
         items = channel.findall('item')
@@ -64,39 +65,39 @@ def run_filter():
     removed_count = 0
 
     for item in list(items):
-        # 提取標題、描述、庫存狀態 (全面支援 g:title / g:description / g:availability)
+        # 提取商品屬性
         title = get_node_text(item, 'title')
         desc = get_node_text(item, 'description')
         avail = get_node_text(item, 'availability').lower()
 
-        # 1. 檢查標題關鍵字 (不分大小寫比對)
+        # 1. 檢查標題關鍵字 (不分大小寫)
         if any(k.lower() in title.lower() for k in TITLE_BLACKLIST if k.strip()):
             container.remove(item)
             removed_count += 1
             continue
 
-        # 2. 檢查描述關鍵字 (不分大小寫比對)
+        # 2. 檢查描述關鍵字 (不分大小寫)
         if any(k.lower() in desc.lower() for k in DESC_BLACKLIST if k.strip()):
             container.remove(item)
             removed_count += 1
             continue
 
-        # 3. 檢查是否缺貨
+        # 3. 檢查庫存狀態 (剔除缺貨商品)
         if avail in ['out of stock', 'outofstock', '0', 'false']:
             container.remove(item)
             removed_count += 1
             continue
 
-    # 註冊命名空間，確保匯出時保持原本的 g: 標籤完整結構
+    # 註冊命名空間，確保匯出時保留完整的 <g:xxx> 標籤結構
     for prefix, uri in NAMESPACES.items():
         ET.register_namespace(prefix, uri)
 
-    # 寫入過濾後的 XML 檔案
+    # 寫入檔案
     tree = ET.ElementTree(root)
     tree.write(OUTPUT_FILENAME, encoding='utf-8', xml_declaration=True)
     
-    print(f"處理完成！原本 {total_initial} 筆，成功剔除 {removed_count} 筆，保留 {total_initial - removed_count} 筆。")
-    print(f"檔案已儲存為 {OUTPUT_FILENAME}")
+    print(f"處理完成！原始 {total_initial} 筆，成功剔除 {removed_count} 筆，保留 {total_initial - removed_count} 筆。")
+    print(f"過濾後的檔案已儲存為 {OUTPUT_FILENAME}")
 
 if __name__ == "__main__":
     run_filter()
