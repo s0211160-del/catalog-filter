@@ -37,7 +37,7 @@ jobs:
       - name: 建立 .nojekyll 防護檔
         run: touch .nojekyll
 
-      - name: 自動提交並推送生成的 CSV
+      - name: 自動提交並推送生成的 XML
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
