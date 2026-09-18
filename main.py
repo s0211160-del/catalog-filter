@@ -6,7 +6,7 @@ import xml.etree.ElementTree as ET
 XML_URL = "https://shopline-feeds.s3.amazonaws.com/facebook_featured_products/fmshoes.xml"
 
 # 2. 標題/名稱排除關鍵字
-TITLE_BLACKLIST = ["贈品", "測試", "紅包", "福利品", "牛仔帽", "四分襪", "筒襪", "棉襪", "開運發財襪", "可麗奶", "購物袋", "殘膠清潔橡皮擦", "全方位擴鞋楦鞋器", "Ipanema", "Melissa"]
+TITLE_BLACKLIST = ["贈品", "測試", "紅包", "福利品", "牛仔帽", "四分襪", "筒襪", "抗菌彈力棉襪", "開運發財襪", "可麗奶", "購物袋", "殘膠清潔橡皮擦", "全方位擴鞋楦鞋器", "Ipanema", "Melissa"]
 
 # 3. 描述排除關鍵字
 DESC_BLACKLIST = ["非賣品", "暫停銷售"]
