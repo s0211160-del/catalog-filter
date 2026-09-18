@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 
 # ================= 設定區 =================
 # 1. 請替換成您的實際 XML 網址
-XML_URL = "https://example.com/catalog.xml"
+XML_URL = "https://shopline-feeds.s3.amazonaws.com/facebook_featured_products/fmshoes.xml"
 
 # 2. 標題/名稱排除關鍵字
 TITLE_BLACKLIST = ["贈品", "測試", "絕版", "福利品"]
