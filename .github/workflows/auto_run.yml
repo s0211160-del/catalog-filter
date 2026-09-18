@@ -5,17 +5,21 @@ on:
     - cron: '0 20 * * *'
   workflow_dispatch:
 
-jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
     steps:
       - name: 檢出專案程式碼
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: 設定 Python 環境
         uses: actions/setup-python@v5
@@ -30,10 +34,34 @@ jobs:
       - name: 執行過濾程式
         run: python main.py
 
+      - name: 建立 .nojekyll 防護檔
+        run: touch .nojekyll
+
       - name: 自動提交並推送生成的 CSV
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add catalog.csv .nojekyll || true
+          git add catalog.csv .nojekyll
           git commit -m "Auto update catalog.csv" || exit 0
-          git push origin main
+          git push
+
+  deploy-pages:
+    needs: run-script
+    runs-on: ubuntu-latest
+    steps:
+      - name: 檢出最新程式碼
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: 設定 Pages
+        uses: actions/configure-pages@v5
+
+      - name: 上傳 Pages 檔案
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: 發布至 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
