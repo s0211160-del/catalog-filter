@@ -2862,7 +2862,7 @@
           <g:custom_label_0>628c537cf8a1b90024f10238,628c67614ec0e3001ea783ef,627e1d42a926950021b28100,642a66d514ea9a001a4e6c84</g:custom_label_0>
           <g:custom_label_1>63a3d3b70df63a001da2486a</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>preorder</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1480 TWD</g:price>
           <g:item_group_id>f319396da804cd2b392f53dce019a16473e252cc</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -3445,25 +3445,6 @@
           <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
           <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
           <color>粉</color>
-          <g:size>38</g:size>
-        </item>        <item>
-          <g:id>62b67ab15e7f740030080bda:62b67ab1584c310763ef77cd</g:id>
-          <g:title>FM SHOES 2way幾何剪裁穆勒鞋 杏(36-42)</g:title>
-          <g:description>   版　型標準版(但腳版偏寬偏肉喜歡舒適可以大一號) 產　地台灣鞋　面仿牛紋面料 內　裏透氣人造豚皮鞋墊 鞋　底橡膠防滑刻紋底 重　量700公克跟　型 筒　高筒　圍踝　圍 前跟高後跟高2cm內增高 </g:description>
-          <g:link>https://www.fmshoes.com.tw/products/62b67ab15e7f740030080bda?variation=62b67ab1584c310763ef77cd</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/637efdc09b07480016d8b1ee/original.jpg?1669266880</g:image_link>
-          <g:product_type>限時優惠 &gt; 9.25-9.28｜絕版品 $500</g:product_type>
-          <g:custom_label_0>628c67614ec0e3001ea783ef,63a3d3b70df63a001da2486a,63a3d4fc9d40e30020e0ad13,628c5462c9c9100012ddd597</g:custom_label_0>
-          <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
-          <g:price>1080 TWD</g:price>
-          <g:item_group_id>f365425f7eb805d6e57246e97d145a7a7e7e5fee</g:item_group_id>
-          <g:brand>FM SHOES</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
-          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
-          <color>杏</color>
           <g:size>38</g:size>
         </item>        <item>
           <g:id>62b67e0f25067300187bbcb5:62b67e0f613cb5000fed07a1</g:id>
@@ -14354,26 +14335,6 @@
           <color>黑</color>
           <g:size>38</g:size>
         </item>        <item>
-          <g:id>66dff0f45a293a00136139af:66dff0f2d3aac60015f869f7</g:id>
-          <g:title>NEUTRAL 防潑水全地形戶外靴 黑(36-42)</g:title>
-          <g:description>        </g:description>
-          <g:link>https://www.fmshoes.com.tw/products/66dff0f45a293a00136139af?variation=66dff0f2d3aac60015f869f7</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/69578341c250cb71e01d2f24/original.jpg?1767342912=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
-          <g:product_type>NEUTRAL 輕機能系列鞋款 &gt; 戶外機能鞋</g:product_type>
-          <g:custom_label_0>628c67614ec0e3001ea783ef,63a3d3b70df63a001da2486a,642a66d514ea9a001a4e6c84,627e1d42a926950021b28100</g:custom_label_0>
-          <g:custom_label_1>628c537cf8a1b90024f10238</g:custom_label_1>
-          <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
-          <g:price>1980 TWD</g:price>
-          <g:item_group_id>cce177f3cfffa7984a0c9657875595dbee4180d1</g:item_group_id>
-          <g:brand>FM SHOES</g:brand>
-          <g:age_group>all ages</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
-          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
-          <color>黑</color>
-          <g:size>39</g:size>
-        </item>        <item>
           <g:id>66dff0f45a293a00136139af:68edc42452cdcc000b1d5672</g:id>
           <g:title>NEUTRAL 防潑水全地形戶外靴 黑(36-42)</g:title>
           <g:description>        </g:description>
@@ -22210,7 +22171,7 @@
           <g:custom_label_0>628c537cf8a1b90024f10238,642a66d514ea9a001a4e6c84,627e1d42a926950021b28100,628c5462c9c9100012ddd597</g:custom_label_0>
           <g:custom_label_1>628c67614ec0e3001ea783ef,63a3d3b70df63a001da2486a</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>preorder</g:availability>
           <g:price>2980 TWD</g:price>
           <g:item_group_id>859e690d2de327ce17553c2db7dc7be4d9d50f20</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -22813,25 +22774,6 @@
           <g:title>NEUTRAL 經典六角烤漆釦減壓拖鞋 粉(35-42)</g:title>
           <g:description>NEUTRAL 經典六角烤漆釦減壓拖鞋 粉(35-42)</g:description>
           <g:link>https://www.fmshoes.com.tw/products/68cba201cf2f9c000aebf14d?variation=68cba1ff60edeb000ae4ecf2</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/68cce7be19cfac000c180c02/original.jpg?1758259134=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
-          <g:product_type>NEUTRAL 輕機能系列鞋款 &gt; 機能性涼拖鞋</g:product_type>
-          <g:custom_label_0>642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef,63a3d3b70df63a001da2486a,628c537cf8a1b90024f10238</g:custom_label_0>
-          <g:custom_label_1>627e1d42a926950021b28100</g:custom_label_1>
-          <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
-          <g:price>1480 TWD</g:price>
-          <g:item_group_id>8fbd6e0887721ea3ba3f62f5b04d70ae6a4ad287</g:item_group_id>
-          <g:brand>FM SHOES</g:brand>
-          <g:age_group>all ages</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
-          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
-          <color>粉</color>
-        </item>        <item>
-          <g:id>68cba201cf2f9c000aebf14d:68cba1ff60edeb000ae4ecf3</g:id>
-          <g:title>NEUTRAL 經典六角烤漆釦減壓拖鞋 粉(35-42)</g:title>
-          <g:description>NEUTRAL 經典六角烤漆釦減壓拖鞋 粉(35-42)</g:description>
-          <g:link>https://www.fmshoes.com.tw/products/68cba201cf2f9c000aebf14d?variation=68cba1ff60edeb000ae4ecf3</g:link>
           <g:image_link>https://img.shoplineapp.com/media/image_clips/68cce7be19cfac000c180c02/original.jpg?1758259134=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
           <g:product_type>NEUTRAL 輕機能系列鞋款 &gt; 機能性涼拖鞋</g:product_type>
           <g:custom_label_0>642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef,63a3d3b70df63a001da2486a,628c537cf8a1b90024f10238</g:custom_label_0>
@@ -33048,24 +32990,6 @@
           <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
           <color>黑</color>
         </item>        <item>
-          <g:id>6a0c23db7630661844a20b42:6a0c23d953b918000d536854</g:id>
-          <g:title>NEUTRAL 戶外風格高透氣網層耐油止滑鞋 黑(36-45)</g:title>
-          <g:description>NEUTRAL 戶外風格高透氣網層耐油止滑鞋 黑(36-45)</g:description>
-          <g:link>https://www.fmshoes.com.tw/products/6a0c23db7630661844a20b42?variation=6a0c23d953b918000d536854</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/6a2a50bee722f8c08d2e4ba0/original.jpg?1781158078=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
-          <g:product_type>NEUTRAL 輕機能系列鞋款 &gt; 秒穿鞋</g:product_type>
-          <g:custom_label_0>642a66d514ea9a001a4e6c84,628c537cf8a1b90024f10238,63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef</g:custom_label_0>
-          <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
-          <g:price>2480 TWD</g:price>
-          <g:item_group_id>4c2f02f596f32917261112eda28b984f6f4e0d43</g:item_group_id>
-          <g:brand>FM SHOES</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
-          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
-          <color>黑</color>
-        </item>        <item>
           <g:id>6a0c23db7630661844a20b42:6a0c23d953b918000d536855</g:id>
           <g:title>NEUTRAL 戶外風格高透氣網層耐油止滑鞋 黑(36-45)</g:title>
           <g:description>NEUTRAL 戶外風格高透氣網層耐油止滑鞋 黑(36-45)</g:description>
@@ -38249,6 +38173,310 @@
           <g:availability>in stock</g:availability>
           <g:price>1680 TWD</g:price>
           <g:item_group_id>381b35c4598318afccf83cc1819cd4e2a0f98997</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>黑</color>
+        </item>        <item>
+          <g:id>6aa0b02ecf9b822d0675950b:6aa0b02b34624d00120820db</g:id>
+          <g:title>FM SHOES 防潑水英倫輕旅綁帶短靴 杏米(36-43)</g:title>
+          <g:description>FM SHOES 防潑水英倫輕旅綁帶短靴 杏米(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6aa0b02ecf9b822d0675950b?variation=6aa0b02b34624d00120820db</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6abf49b3ebc19433bb495c8b/original.jpg?1790921138=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.06 NEW</g:product_type>
+          <g:custom_label_0>642a66d514ea9a001a4e6c84,63a3d3b70df63a001da2486a,627e1d42a926950021b28100,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1980 TWD</g:price>
+          <g:item_group_id>7eb0514e574d6e09bfabb923f981a8babd3fde95</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>杏米</color>
+        </item>        <item>
+          <g:id>6aa0b02ecf9b822d0675950b:6aa0b02b34624d00120820dc</g:id>
+          <g:title>FM SHOES 防潑水英倫輕旅綁帶短靴 杏米(36-43)</g:title>
+          <g:description>FM SHOES 防潑水英倫輕旅綁帶短靴 杏米(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6aa0b02ecf9b822d0675950b?variation=6aa0b02b34624d00120820dc</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6abf49b3ebc19433bb495c8b/original.jpg?1790921138=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.06 NEW</g:product_type>
+          <g:custom_label_0>642a66d514ea9a001a4e6c84,63a3d3b70df63a001da2486a,627e1d42a926950021b28100,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1980 TWD</g:price>
+          <g:item_group_id>7eb0514e574d6e09bfabb923f981a8babd3fde95</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>杏米</color>
+        </item>        <item>
+          <g:id>6aa0b02ecf9b822d0675950b:6aa0b02b34624d00120820dd</g:id>
+          <g:title>FM SHOES 防潑水英倫輕旅綁帶短靴 杏米(36-43)</g:title>
+          <g:description>FM SHOES 防潑水英倫輕旅綁帶短靴 杏米(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6aa0b02ecf9b822d0675950b?variation=6aa0b02b34624d00120820dd</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6abf49b3ebc19433bb495c8b/original.jpg?1790921138=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.06 NEW</g:product_type>
+          <g:custom_label_0>642a66d514ea9a001a4e6c84,63a3d3b70df63a001da2486a,627e1d42a926950021b28100,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1980 TWD</g:price>
+          <g:item_group_id>7eb0514e574d6e09bfabb923f981a8babd3fde95</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>杏米</color>
+        </item>        <item>
+          <g:id>6aa0b02ecf9b822d0675950b:6aa0b02b34624d00120820de</g:id>
+          <g:title>FM SHOES 防潑水英倫輕旅綁帶短靴 杏米(36-43)</g:title>
+          <g:description>FM SHOES 防潑水英倫輕旅綁帶短靴 杏米(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6aa0b02ecf9b822d0675950b?variation=6aa0b02b34624d00120820de</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6abf49b3ebc19433bb495c8b/original.jpg?1790921138=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.06 NEW</g:product_type>
+          <g:custom_label_0>642a66d514ea9a001a4e6c84,63a3d3b70df63a001da2486a,627e1d42a926950021b28100,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1980 TWD</g:price>
+          <g:item_group_id>7eb0514e574d6e09bfabb923f981a8babd3fde95</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>杏米</color>
+        </item>        <item>
+          <g:id>6aa0b02ecf9b822d0675950b:6aa0b02b34624d00120820df</g:id>
+          <g:title>FM SHOES 防潑水英倫輕旅綁帶短靴 杏米(36-43)</g:title>
+          <g:description>FM SHOES 防潑水英倫輕旅綁帶短靴 杏米(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6aa0b02ecf9b822d0675950b?variation=6aa0b02b34624d00120820df</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6abf49b3ebc19433bb495c8b/original.jpg?1790921138=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.06 NEW</g:product_type>
+          <g:custom_label_0>642a66d514ea9a001a4e6c84,63a3d3b70df63a001da2486a,627e1d42a926950021b28100,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1980 TWD</g:price>
+          <g:item_group_id>7eb0514e574d6e09bfabb923f981a8babd3fde95</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>杏米</color>
+        </item>        <item>
+          <g:id>6aa0b02ecf9b822d0675950b:6aa0b02b34624d00120820e0</g:id>
+          <g:title>FM SHOES 防潑水英倫輕旅綁帶短靴 杏米(36-43)</g:title>
+          <g:description>FM SHOES 防潑水英倫輕旅綁帶短靴 杏米(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6aa0b02ecf9b822d0675950b?variation=6aa0b02b34624d00120820e0</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6abf49b3ebc19433bb495c8b/original.jpg?1790921138=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.06 NEW</g:product_type>
+          <g:custom_label_0>642a66d514ea9a001a4e6c84,63a3d3b70df63a001da2486a,627e1d42a926950021b28100,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1980 TWD</g:price>
+          <g:item_group_id>7eb0514e574d6e09bfabb923f981a8babd3fde95</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>杏米</color>
+        </item>        <item>
+          <g:id>6aa0b02ecf9b822d0675950b:6aa0b02b34624d00120820e1</g:id>
+          <g:title>FM SHOES 防潑水英倫輕旅綁帶短靴 杏米(36-43)</g:title>
+          <g:description>FM SHOES 防潑水英倫輕旅綁帶短靴 杏米(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6aa0b02ecf9b822d0675950b?variation=6aa0b02b34624d00120820e1</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6abf49b3ebc19433bb495c8b/original.jpg?1790921138=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.06 NEW</g:product_type>
+          <g:custom_label_0>642a66d514ea9a001a4e6c84,63a3d3b70df63a001da2486a,627e1d42a926950021b28100,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1980 TWD</g:price>
+          <g:item_group_id>7eb0514e574d6e09bfabb923f981a8babd3fde95</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>杏米</color>
+        </item>        <item>
+          <g:id>6aa0b02ecf9b822d0675950b:6aa0b02b34624d00120820e2</g:id>
+          <g:title>FM SHOES 防潑水英倫輕旅綁帶短靴 杏米(36-43)</g:title>
+          <g:description>FM SHOES 防潑水英倫輕旅綁帶短靴 杏米(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6aa0b02ecf9b822d0675950b?variation=6aa0b02b34624d00120820e2</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6abf49b3ebc19433bb495c8b/original.jpg?1790921138=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.06 NEW</g:product_type>
+          <g:custom_label_0>642a66d514ea9a001a4e6c84,63a3d3b70df63a001da2486a,627e1d42a926950021b28100,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1980 TWD</g:price>
+          <g:item_group_id>7eb0514e574d6e09bfabb923f981a8babd3fde95</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>杏米</color>
+        </item>        <item>
+          <g:id>6aa0b0aa9351c856c74c6ec2:6aa0b0a7b48806000ce6fcc7</g:id>
+          <g:title>FM SHOES 防潑水英倫輕旅綁帶短靴 黑(36-43)</g:title>
+          <g:description>FM SHOES 防潑水英倫輕旅綁帶短靴 黑(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6aa0b0aa9351c856c74c6ec2?variation=6aa0b0a7b48806000ce6fcc7</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6abf4aeb97179b9faa27054a/original.jpg?1790921451=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.06 NEW</g:product_type>
+          <g:custom_label_0>628c53ca70aa24000f0df254,642a66d514ea9a001a4e6c84,627e1d42a926950021b28100,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>628c67614ec0e3001ea783ef,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1980 TWD</g:price>
+          <g:item_group_id>3e8f03e5fad4f12978f4fec6741f7d3fdb522c74</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>黑</color>
+        </item>        <item>
+          <g:id>6aa0b0aa9351c856c74c6ec2:6aa0b0a7b48806000ce6fcc8</g:id>
+          <g:title>FM SHOES 防潑水英倫輕旅綁帶短靴 黑(36-43)</g:title>
+          <g:description>FM SHOES 防潑水英倫輕旅綁帶短靴 黑(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6aa0b0aa9351c856c74c6ec2?variation=6aa0b0a7b48806000ce6fcc8</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6abf4aeb97179b9faa27054a/original.jpg?1790921451=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.06 NEW</g:product_type>
+          <g:custom_label_0>628c53ca70aa24000f0df254,642a66d514ea9a001a4e6c84,627e1d42a926950021b28100,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>628c67614ec0e3001ea783ef,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1980 TWD</g:price>
+          <g:item_group_id>3e8f03e5fad4f12978f4fec6741f7d3fdb522c74</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>黑</color>
+        </item>        <item>
+          <g:id>6aa0b0aa9351c856c74c6ec2:6aa0b0a7b48806000ce6fcc9</g:id>
+          <g:title>FM SHOES 防潑水英倫輕旅綁帶短靴 黑(36-43)</g:title>
+          <g:description>FM SHOES 防潑水英倫輕旅綁帶短靴 黑(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6aa0b0aa9351c856c74c6ec2?variation=6aa0b0a7b48806000ce6fcc9</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6abf4aeb97179b9faa27054a/original.jpg?1790921451=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.06 NEW</g:product_type>
+          <g:custom_label_0>628c53ca70aa24000f0df254,642a66d514ea9a001a4e6c84,627e1d42a926950021b28100,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>628c67614ec0e3001ea783ef,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1980 TWD</g:price>
+          <g:item_group_id>3e8f03e5fad4f12978f4fec6741f7d3fdb522c74</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>黑</color>
+        </item>        <item>
+          <g:id>6aa0b0aa9351c856c74c6ec2:6aa0b0a7b48806000ce6fcca</g:id>
+          <g:title>FM SHOES 防潑水英倫輕旅綁帶短靴 黑(36-43)</g:title>
+          <g:description>FM SHOES 防潑水英倫輕旅綁帶短靴 黑(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6aa0b0aa9351c856c74c6ec2?variation=6aa0b0a7b48806000ce6fcca</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6abf4aeb97179b9faa27054a/original.jpg?1790921451=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.06 NEW</g:product_type>
+          <g:custom_label_0>628c53ca70aa24000f0df254,642a66d514ea9a001a4e6c84,627e1d42a926950021b28100,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>628c67614ec0e3001ea783ef,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1980 TWD</g:price>
+          <g:item_group_id>3e8f03e5fad4f12978f4fec6741f7d3fdb522c74</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>黑</color>
+        </item>        <item>
+          <g:id>6aa0b0aa9351c856c74c6ec2:6aa0b0a7b48806000ce6fccb</g:id>
+          <g:title>FM SHOES 防潑水英倫輕旅綁帶短靴 黑(36-43)</g:title>
+          <g:description>FM SHOES 防潑水英倫輕旅綁帶短靴 黑(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6aa0b0aa9351c856c74c6ec2?variation=6aa0b0a7b48806000ce6fccb</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6abf4aeb97179b9faa27054a/original.jpg?1790921451=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.06 NEW</g:product_type>
+          <g:custom_label_0>628c53ca70aa24000f0df254,642a66d514ea9a001a4e6c84,627e1d42a926950021b28100,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>628c67614ec0e3001ea783ef,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1980 TWD</g:price>
+          <g:item_group_id>3e8f03e5fad4f12978f4fec6741f7d3fdb522c74</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>黑</color>
+        </item>        <item>
+          <g:id>6aa0b0aa9351c856c74c6ec2:6aa0b0a7b48806000ce6fccc</g:id>
+          <g:title>FM SHOES 防潑水英倫輕旅綁帶短靴 黑(36-43)</g:title>
+          <g:description>FM SHOES 防潑水英倫輕旅綁帶短靴 黑(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6aa0b0aa9351c856c74c6ec2?variation=6aa0b0a7b48806000ce6fccc</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6abf4aeb97179b9faa27054a/original.jpg?1790921451=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.06 NEW</g:product_type>
+          <g:custom_label_0>628c53ca70aa24000f0df254,642a66d514ea9a001a4e6c84,627e1d42a926950021b28100,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>628c67614ec0e3001ea783ef,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1980 TWD</g:price>
+          <g:item_group_id>3e8f03e5fad4f12978f4fec6741f7d3fdb522c74</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>黑</color>
+        </item>        <item>
+          <g:id>6aa0b0aa9351c856c74c6ec2:6aa0b0a7b48806000ce6fccd</g:id>
+          <g:title>FM SHOES 防潑水英倫輕旅綁帶短靴 黑(36-43)</g:title>
+          <g:description>FM SHOES 防潑水英倫輕旅綁帶短靴 黑(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6aa0b0aa9351c856c74c6ec2?variation=6aa0b0a7b48806000ce6fccd</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6abf4aeb97179b9faa27054a/original.jpg?1790921451=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.06 NEW</g:product_type>
+          <g:custom_label_0>628c53ca70aa24000f0df254,642a66d514ea9a001a4e6c84,627e1d42a926950021b28100,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>628c67614ec0e3001ea783ef,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1980 TWD</g:price>
+          <g:item_group_id>3e8f03e5fad4f12978f4fec6741f7d3fdb522c74</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>黑</color>
+        </item>        <item>
+          <g:id>6aa0b0aa9351c856c74c6ec2:6aa0b0a7b48806000ce6fcce</g:id>
+          <g:title>FM SHOES 防潑水英倫輕旅綁帶短靴 黑(36-43)</g:title>
+          <g:description>FM SHOES 防潑水英倫輕旅綁帶短靴 黑(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6aa0b0aa9351c856c74c6ec2?variation=6aa0b0a7b48806000ce6fcce</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6abf4aeb97179b9faa27054a/original.jpg?1790921451=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.06 NEW</g:product_type>
+          <g:custom_label_0>628c53ca70aa24000f0df254,642a66d514ea9a001a4e6c84,627e1d42a926950021b28100,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>628c67614ec0e3001ea783ef,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1980 TWD</g:price>
+          <g:item_group_id>3e8f03e5fad4f12978f4fec6741f7d3fdb522c74</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
           <g:age_group>all ages</g:age_group>
           <g:gender>unisex</g:gender>
