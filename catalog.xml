@@ -884,7 +884,7 @@
           <g:custom_label_0>628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,63a3d3b70df63a001da2486a,628c537cf8a1b90024f10238</g:custom_label_0>
           <g:custom_label_1>627e1d42a926950021b28100</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>preorder</g:availability>
           <g:price>1480 TWD</g:price>
           <g:item_group_id>a52821fabd11ccca7eb2870b925420ab517ae687</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -2750,7 +2750,7 @@
           <g:custom_label_0>628c537cf8a1b90024f10238,628c67614ec0e3001ea783ef,627e1d42a926950021b28100,642a66d514ea9a001a4e6c84</g:custom_label_0>
           <g:custom_label_1>63a3d3b70df63a001da2486a</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>preorder</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1480 TWD</g:price>
           <g:item_group_id>f319396da804cd2b392f53dce019a16473e252cc</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -2850,7 +2850,7 @@
           <g:custom_label_0>628c537cf8a1b90024f10238,628c67614ec0e3001ea783ef,627e1d42a926950021b28100,642a66d514ea9a001a4e6c84</g:custom_label_0>
           <g:custom_label_1>63a3d3b70df63a001da2486a</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>preorder</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1480 TWD</g:price>
           <g:item_group_id>f319396da804cd2b392f53dce019a16473e252cc</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -5043,6 +5043,46 @@
           <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
           <color>綠</color>
           <g:size>40</g:size>
+        </item>        <item>
+          <g:id>641432702e6fc50020ffa6e6:6414326fa515950c74205d4a</g:id>
+          <g:title>NEUTRAL 雙帶減壓厚底休閒拖鞋 粉(35-40)</g:title>
+          <g:description>    版 型 偏大版(小一號購買)   產 地 台灣   鞋 面 超纖速乾面料   內 裏 腳床造型EVA發泡內墊   鞋 底 橡膠EVA防滑膠底   重 量 850公克 跟 型     筒 高  筒 圍  踝 圍</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/641432702e6fc50020ffa6e6?variation=6414326fa515950c74205d4a</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/69573e60fbaf487dc4b3f3fe/original.jpg?1767325280=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>NEUTRAL 輕機能系列鞋款 &gt; 機能性涼拖鞋</g:product_type>
+          <g:custom_label_0>628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,628c537cf8a1b90024f10238,627e1d42a926950021b28100</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1480 TWD</g:price>
+          <g:item_group_id>b768280845ac0e4ebdfc913243920991805b3fd6</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>粉</color>
+          <g:size>36</g:size>
+        </item>        <item>
+          <g:id>641432702e6fc50020ffa6e6:6414326fa515950c74205d4b</g:id>
+          <g:title>NEUTRAL 雙帶減壓厚底休閒拖鞋 粉(35-40)</g:title>
+          <g:description>    版 型 偏大版(小一號購買)   產 地 台灣   鞋 面 超纖速乾面料   內 裏 腳床造型EVA發泡內墊   鞋 底 橡膠EVA防滑膠底   重 量 850公克 跟 型     筒 高  筒 圍  踝 圍</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/641432702e6fc50020ffa6e6?variation=6414326fa515950c74205d4b</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/69573e60fbaf487dc4b3f3fe/original.jpg?1767325280=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>NEUTRAL 輕機能系列鞋款 &gt; 機能性涼拖鞋</g:product_type>
+          <g:custom_label_0>628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,628c537cf8a1b90024f10238,627e1d42a926950021b28100</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1480 TWD</g:price>
+          <g:item_group_id>b768280845ac0e4ebdfc913243920991805b3fd6</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>粉</color>
+          <g:size>37</g:size>
         </item>        <item>
           <g:id>641432702e6fc50020ffa6e6:6414326fa515950c74205d4c</g:id>
           <g:title>NEUTRAL 雙帶減壓厚底休閒拖鞋 粉(35-40)</g:title>
@@ -9217,6 +9257,106 @@
           <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
           <color>黑</color>
         </item>        <item>
+          <g:id>65e036112c2b5518a866fc39:65e0360f1b8d7c000cd23f20</g:id>
+          <g:title>FM SHOES 瑪莉珍粗跟鞋 奶茶</g:title>
+          <g:description>FM SHOES 瑪莉珍粗跟鞋 奶茶</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/65e036112c2b5518a866fc39?variation=65e0360f1b8d7c000cd23f20</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/65e0359a250d3f0020497fd9/original.jpg?1709192602</g:image_link>
+          <g:product_type>FM SHOES 訂製 &gt; 高跟鞋(5cm以上跟高)</g:product_type>
+          <g:custom_label_0>63a522cf0b9d1d000e32c553,628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,63a3d3b70df63a001da2486a</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1280 TWD</g:price>
+          <g:item_group_id>fe7a6f5c66e92da45d8306f9688b7943ef4fca13</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>奶茶</color>
+          <g:size>36</g:size>
+        </item>        <item>
+          <g:id>65e036112c2b5518a866fc39:65e0360f1b8d7c000cd23f23</g:id>
+          <g:title>FM SHOES 瑪莉珍粗跟鞋 奶茶</g:title>
+          <g:description>FM SHOES 瑪莉珍粗跟鞋 奶茶</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/65e036112c2b5518a866fc39?variation=65e0360f1b8d7c000cd23f23</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/65e0359a250d3f0020497fd9/original.jpg?1709192602</g:image_link>
+          <g:product_type>FM SHOES 訂製 &gt; 高跟鞋(5cm以上跟高)</g:product_type>
+          <g:custom_label_0>63a522cf0b9d1d000e32c553,628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,63a3d3b70df63a001da2486a</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1280 TWD</g:price>
+          <g:item_group_id>fe7a6f5c66e92da45d8306f9688b7943ef4fca13</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>奶茶</color>
+          <g:size>39</g:size>
+        </item>        <item>
+          <g:id>65e036112c2b5518a866fc39:65e0360f1b8d7c000cd23f24</g:id>
+          <g:title>FM SHOES 瑪莉珍粗跟鞋 奶茶</g:title>
+          <g:description>FM SHOES 瑪莉珍粗跟鞋 奶茶</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/65e036112c2b5518a866fc39?variation=65e0360f1b8d7c000cd23f24</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/65e0359a250d3f0020497fd9/original.jpg?1709192602</g:image_link>
+          <g:product_type>FM SHOES 訂製 &gt; 高跟鞋(5cm以上跟高)</g:product_type>
+          <g:custom_label_0>63a522cf0b9d1d000e32c553,628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,63a3d3b70df63a001da2486a</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1280 TWD</g:price>
+          <g:item_group_id>fe7a6f5c66e92da45d8306f9688b7943ef4fca13</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>奶茶</color>
+          <g:size>40</g:size>
+        </item>        <item>
+          <g:id>65e036112c2b5518a866fc39:65e0360f1b8d7c000cd23f25</g:id>
+          <g:title>FM SHOES 瑪莉珍粗跟鞋 奶茶</g:title>
+          <g:description>FM SHOES 瑪莉珍粗跟鞋 奶茶</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/65e036112c2b5518a866fc39?variation=65e0360f1b8d7c000cd23f25</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/65e0359a250d3f0020497fd9/original.jpg?1709192602</g:image_link>
+          <g:product_type>FM SHOES 訂製 &gt; 高跟鞋(5cm以上跟高)</g:product_type>
+          <g:custom_label_0>63a522cf0b9d1d000e32c553,628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,63a3d3b70df63a001da2486a</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1280 TWD</g:price>
+          <g:item_group_id>fe7a6f5c66e92da45d8306f9688b7943ef4fca13</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>奶茶</color>
+          <g:size>41</g:size>
+        </item>        <item>
+          <g:id>65e036112c2b5518a866fc39:65fcf0cbe933b1001a93d198</g:id>
+          <g:title>FM SHOES 瑪莉珍粗跟鞋 奶茶</g:title>
+          <g:description>FM SHOES 瑪莉珍粗跟鞋 奶茶</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/65e036112c2b5518a866fc39?variation=65fcf0cbe933b1001a93d198</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/65e0359a250d3f0020497fd9/original.jpg?1709192602</g:image_link>
+          <g:product_type>FM SHOES 訂製 &gt; 高跟鞋(5cm以上跟高)</g:product_type>
+          <g:custom_label_0>63a522cf0b9d1d000e32c553,628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,63a3d3b70df63a001da2486a</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1280 TWD</g:price>
+          <g:item_group_id>fe7a6f5c66e92da45d8306f9688b7943ef4fca13</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>奶茶</color>
+          <g:size>42</g:size>
+        </item>        <item>
           <g:id>65e036cfcbfc54001ad03dee:65e036cd8a97d5000c9c4bb8</g:id>
           <g:title>FM SHOES 瑪莉珍粗跟鞋 黑</g:title>
           <g:description>FM SHOES 瑪莉珍粗跟鞋 黑</g:description>
@@ -11426,6 +11566,26 @@
           <color>紫</color>
           <g:size>37</g:size>
         </item>        <item>
+          <g:id>66334d2e80ba4900144e71ca:66334d2ded9887000c4644b8</g:id>
+          <g:title>NEUTRAL 雙帶減壓厚底休閒拖鞋 紫(35-41)</g:title>
+          <g:description>    版 型 偏大版(小一號購買)   產 地 台灣   鞋 面 超纖速乾面料   內 裏 腳床造型EVA發泡內墊   鞋 底 橡膠EVA防滑膠底   重 量 850公克 跟 型     筒 高  筒 圍  踝 圍</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/66334d2e80ba4900144e71ca?variation=66334d2ded9887000c4644b8</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/69573d1f721149001248ed35/original.jpg?1767324958=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>NEUTRAL 輕機能系列鞋款 &gt; 機能性涼拖鞋</g:product_type>
+          <g:custom_label_0>628c537cf8a1b90024f10238,642a66d514ea9a001a4e6c84,627e1d42a926950021b28100,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1480 TWD</g:price>
+          <g:item_group_id>c48f7d10e1f72a6a640291a263e96dd1efa59b4f</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>紫</color>
+          <g:size>38</g:size>
+        </item>        <item>
           <g:id>66334d2e80ba4900144e71ca:66334d2ded9887000c4644b9</g:id>
           <g:title>NEUTRAL 雙帶減壓厚底休閒拖鞋 紫(35-41)</g:title>
           <g:description>    版 型 偏大版(小一號購買)   產 地 台灣   鞋 面 超纖速乾面料   內 裏 腳床造型EVA發泡內墊   鞋 底 橡膠EVA防滑膠底   重 量 850公克 跟 型     筒 高  筒 圍  踝 圍</g:description>
@@ -11445,6 +11605,26 @@
           <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
           <color>紫</color>
           <g:size>39</g:size>
+        </item>        <item>
+          <g:id>66334d2e80ba4900144e71ca:66334d2ded9887000c4644ba</g:id>
+          <g:title>NEUTRAL 雙帶減壓厚底休閒拖鞋 紫(35-41)</g:title>
+          <g:description>    版 型 偏大版(小一號購買)   產 地 台灣   鞋 面 超纖速乾面料   內 裏 腳床造型EVA發泡內墊   鞋 底 橡膠EVA防滑膠底   重 量 850公克 跟 型     筒 高  筒 圍  踝 圍</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/66334d2e80ba4900144e71ca?variation=66334d2ded9887000c4644ba</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/69573d1f721149001248ed35/original.jpg?1767324958=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>NEUTRAL 輕機能系列鞋款 &gt; 機能性涼拖鞋</g:product_type>
+          <g:custom_label_0>628c537cf8a1b90024f10238,642a66d514ea9a001a4e6c84,627e1d42a926950021b28100,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1480 TWD</g:price>
+          <g:item_group_id>c48f7d10e1f72a6a640291a263e96dd1efa59b4f</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>紫</color>
+          <g:size>40</g:size>
         </item>        <item>
           <g:id>66334d2e80ba4900144e71ca:66334d2ded9887000c4644bb</g:id>
           <g:title>NEUTRAL 雙帶減壓厚底休閒拖鞋 紫(35-41)</g:title>
@@ -13380,25 +13560,6 @@
           <color>棕</color>
           <g:size>43</g:size>
         </item>        <item>
-          <g:id>667e1e845b0f54128ddba9ea:667e1e8167575fe25328765e</g:id>
-          <g:title>NEUTRAL 金釦防潑雙帶減壓拖鞋 杏(35-44)</g:title>
-          <g:description>        </g:description>
-          <g:link>https://www.fmshoes.com.tw/products/667e1e845b0f54128ddba9ea?variation=667e1e8167575fe25328765e</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/667e1d679227bd001f9c337e/original.jpg?1719541095</g:image_link>
-          <g:product_type>NEUTRAL 輕機能系列鞋款 &gt; 男生機能鞋</g:product_type>
-          <g:custom_label_0>628c537cf8a1b90024f10238,628c67614ec0e3001ea783ef,627e1d42a926950021b28100,63a3d3b70df63a001da2486a</g:custom_label_0>
-          <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
-          <g:price>1480 TWD</g:price>
-          <g:item_group_id>d1b7cb61b368f60e8776cc6018f73d6c2b781dc0</g:item_group_id>
-          <g:brand>FM SHOES</g:brand>
-          <g:age_group>all ages</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
-          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
-          <color>杏</color>
-          <g:size>35</g:size>
-        </item>        <item>
           <g:id>667e1e845b0f54128ddba9ea:667e1e8167575fe25328765f</g:id>
           <g:title>NEUTRAL 金釦防潑雙帶減壓拖鞋 杏(35-44)</g:title>
           <g:description>        </g:description>
@@ -14534,6 +14695,26 @@
           <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
           <color>杏</color>
           <g:size>41</g:size>
+        </item>        <item>
+          <g:id>66d16a258e3d0e000d7bc397:66d16a2248f31500099e45bd</g:id>
+          <g:title>NEUTRAL 極致舒適秒穿氣墊鞋(寬楦) 白紫(36-43)</g:title>
+          <g:description>        </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/66d16a258e3d0e000d7bc397?variation=66d16a2248f31500099e45bd</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/69573674bc1b99ca4f366c95/original.jpg?1767323251=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>限時優惠 &gt; 9.25-9.28｜絕版品 $500</g:product_type>
+          <g:custom_label_0>628c537cf8a1b90024f10238,628c67614ec0e3001ea783ef,628c5462c9c9100012ddd597,642a66d514ea9a001a4e6c84</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1680 TWD</g:price>
+          <g:item_group_id>6a78e9a235d6dba7098225dc21d26e499c650249</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>白紫</color>
+          <g:size>40</g:size>
         </item>        <item>
           <g:id>66dfed9c084f05001940c562:66dfed997ff5d579a71b9d50</g:id>
           <g:title>NEUTRAL 防潑水全地形戶外靴 杏(36-42)</g:title>
@@ -15874,7 +16055,7 @@
           <g:custom_label_0>63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,628c537cf8a1b90024f10238</g:custom_label_0>
           <g:custom_label_1>628c5462c9c9100012ddd597,627e1d42a926950021b28100</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>preorder</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>2980 TWD</g:price>
           <g:item_group_id>ef6fb614721f6111b398bf2ba87df98023dcbc65</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -15969,7 +16150,7 @@
           <g:custom_label_0>63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,628c537cf8a1b90024f10238</g:custom_label_0>
           <g:custom_label_1>628c5462c9c9100012ddd597,627e1d42a926950021b28100</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>preorder</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>2980 TWD</g:price>
           <g:item_group_id>ef6fb614721f6111b398bf2ba87df98023dcbc65</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -15988,7 +16169,7 @@
           <g:custom_label_0>628c67614ec0e3001ea783ef,627e1d42a926950021b28100,642a66d514ea9a001a4e6c84,628c537cf8a1b90024f10238</g:custom_label_0>
           <g:custom_label_1>628c5462c9c9100012ddd597,63a3d3b70df63a001da2486a</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>preorder</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>2980 TWD</g:price>
           <g:item_group_id>f0f9032bd6d67bbc2e59a8b05a8ab843f760d3b2</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -16007,7 +16188,7 @@
           <g:custom_label_0>628c67614ec0e3001ea783ef,627e1d42a926950021b28100,642a66d514ea9a001a4e6c84,628c537cf8a1b90024f10238</g:custom_label_0>
           <g:custom_label_1>628c5462c9c9100012ddd597,63a3d3b70df63a001da2486a</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>preorder</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>2980 TWD</g:price>
           <g:item_group_id>f0f9032bd6d67bbc2e59a8b05a8ab843f760d3b2</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -16026,7 +16207,7 @@
           <g:custom_label_0>628c67614ec0e3001ea783ef,627e1d42a926950021b28100,642a66d514ea9a001a4e6c84,628c537cf8a1b90024f10238</g:custom_label_0>
           <g:custom_label_1>628c5462c9c9100012ddd597,63a3d3b70df63a001da2486a</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>preorder</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>2980 TWD</g:price>
           <g:item_group_id>f0f9032bd6d67bbc2e59a8b05a8ab843f760d3b2</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -16045,7 +16226,7 @@
           <g:custom_label_0>628c67614ec0e3001ea783ef,627e1d42a926950021b28100,642a66d514ea9a001a4e6c84,628c537cf8a1b90024f10238</g:custom_label_0>
           <g:custom_label_1>628c5462c9c9100012ddd597,63a3d3b70df63a001da2486a</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>preorder</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>2980 TWD</g:price>
           <g:item_group_id>f0f9032bd6d67bbc2e59a8b05a8ab843f760d3b2</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -16064,7 +16245,7 @@
           <g:custom_label_0>628c67614ec0e3001ea783ef,627e1d42a926950021b28100,642a66d514ea9a001a4e6c84,628c537cf8a1b90024f10238</g:custom_label_0>
           <g:custom_label_1>628c5462c9c9100012ddd597,63a3d3b70df63a001da2486a</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>preorder</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>2980 TWD</g:price>
           <g:item_group_id>f0f9032bd6d67bbc2e59a8b05a8ab843f760d3b2</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -16123,7 +16304,7 @@
           <g:custom_label_0>628c67614ec0e3001ea783ef,627e1d42a926950021b28100,642a66d514ea9a001a4e6c84,628c537cf8a1b90024f10238</g:custom_label_0>
           <g:custom_label_1>628c5462c9c9100012ddd597,63a3d3b70df63a001da2486a</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>preorder</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>2980 TWD</g:price>
           <g:item_group_id>f0f9032bd6d67bbc2e59a8b05a8ab843f760d3b2</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -27242,25 +27423,6 @@
           <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
           <color>黑</color>
         </item>        <item>
-          <g:id>68eddad910725a00145366e4:68eddad71f3d9f000fa698b5</g:id>
-          <g:title>FM SHOES 寬版輕量厚底彈力及膝長靴 黑(36-42)</g:title>
-          <g:description>FM SHOES 寬版輕量厚底彈力及膝長靴 黑(36-42)</g:description>
-          <g:link>https://www.fmshoes.com.tw/products/68eddad910725a00145366e4?variation=68eddad71f3d9f000fa698b5</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/690d53091fbf320010a6215d/original.jpg?1762480905=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
-          <g:product_type>限時優惠 &gt; 9.30-10.14｜Snow Girl 冬日出發計畫</g:product_type>
-          <g:custom_label_0>628c67614ec0e3001ea783ef,628c5462c9c9100012ddd597,642a66d514ea9a001a4e6c84,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
-          <g:custom_label_1>63a3d3b70df63a001da2486a</g:custom_label_1>
-          <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
-          <g:price>2280 TWD</g:price>
-          <g:item_group_id>dc1b63659483fc321cde51e2918662766ce68f71</g:item_group_id>
-          <g:brand>FM SHOES</g:brand>
-          <g:age_group>all ages</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
-          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
-          <color>黑</color>
-        </item>        <item>
           <g:id>68eddad910725a00145366e4:68eddad71f3d9f000fa698b6</g:id>
           <g:title>FM SHOES 寬版輕量厚底彈力及膝長靴 黑(36-42)</g:title>
           <g:description>FM SHOES 寬版輕量厚底彈力及膝長靴 黑(36-42)</g:description>
@@ -31108,25 +31270,6 @@
           <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
           <color>黑</color>
         </item>        <item>
-          <g:id>696895a34410227bcfec20f6:696895a103025e000aabdfea</g:id>
-          <g:title>NEUTRAL 三效防護秒穿機能鞋 白紫（防水  耐油  止滑）(36-42)</g:title>
-          <g:description>NEUTRAL 三效防護秒穿機能鞋 白紫（防水  耐油  止滑）(36-42)</g:description>
-          <g:link>https://www.fmshoes.com.tw/products/696895a34410227bcfec20f6?variation=696895a103025e000aabdfea</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/6a1fe6a279c8ebf98a0eb03b/original.jpg?1780475554=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
-          <g:product_type>NEUTRAL 輕機能系列鞋款 &gt; 秒穿鞋</g:product_type>
-          <g:custom_label_0>642a66d514ea9a001a4e6c84,627e1d42a926950021b28100,628c67614ec0e3001ea783ef,628c537cf8a1b90024f10238</g:custom_label_0>
-          <g:custom_label_1>63a3d3b70df63a001da2486a</g:custom_label_1>
-          <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
-          <g:price>2480 TWD</g:price>
-          <g:item_group_id>e74c8b3822d5a5e4d839f42a8e050c3da4c1bb25</g:item_group_id>
-          <g:brand>FM SHOES</g:brand>
-          <g:age_group>all ages</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
-          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
-          <color>白紫</color>
-        </item>        <item>
           <g:id>696895a34410227bcfec20f6:696895a103025e000aabdfeb</g:id>
           <g:title>NEUTRAL 三效防護秒穿機能鞋 白紫（防水  耐油  止滑）(36-42)</g:title>
           <g:description>NEUTRAL 三效防護秒穿機能鞋 白紫（防水  耐油  止滑）(36-42)</g:description>
@@ -33553,6 +33696,25 @@
           <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
           <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
           <color>杏</color>
+        </item>        <item>
+          <g:id>6a0c0cb87f1439e14d4bc8e1:6a0c0cb540febb00097c96fb</g:id>
+          <g:title>NEUTRAL 透氣減壓大氣墊美體健走鞋 黑(36-42)</g:title>
+          <g:description>NEUTRAL 透氣減壓大氣墊美體健走鞋 黑(36-42)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6a0c0cb87f1439e14d4bc8e1?variation=6a0c0cb540febb00097c96fb</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6a436fc1f32099aae89f35da/original.jpg?1782804417=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,628c537cf8a1b90024f10238,63a3d3b70df63a001da2486a</g:custom_label_0>
+          <g:custom_label_1>628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1680 TWD</g:price>
+          <g:item_group_id>1161bdb14a37d587e38ed981a785fc046b358466</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>黑</color>
         </item>        <item>
           <g:id>6a0c23db7630661844a20b42:6a0c23d953b918000d53684e</g:id>
           <g:title>NEUTRAL 戶外風格高透氣網層耐油止滑鞋 黑(36-45)</g:title>
@@ -40147,4 +40309,1771 @@
           <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
           <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
           <color>黑</color>
+        </item>        <item>
+          <g:id>6abdf111436babee6115a3c8:6abdf10f490f290012208ce6</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮莫卡辛兩穿饅頭鞋 卡其(36-44)</g:title>
+          <g:description>    版 型 正常版(但腳版偏寬偏肉喜歡舒適可以大一號)   產 地 台灣   鞋 面 超纖皮料   內 裏 真豚皮乳膠鞋墊   鞋 底 橡膠防滑刻紋底   重 量 600公克 跟 型     筒 高  筒 圍  </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf111436babee6115a3c8?variation=6abdf10f490f290012208ce6</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad5870079ed75000c73a237/original.jpg?1792378624=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d3b70df63a001da2486a,642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef,627e1d42a926950021b28100</g:custom_label_0>
+          <g:custom_label_1>628c53ca70aa24000f0df254,63a3d4fc9d40e30020e0ad13</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>6ca920cde5f09a91bb009bf05be4acebb55cd54c</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>卡其</color>
+        </item>        <item>
+          <g:id>6abdf111436babee6115a3c8:6abdf10f490f290012208ce7</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮莫卡辛兩穿饅頭鞋 卡其(36-44)</g:title>
+          <g:description>    版 型 正常版(但腳版偏寬偏肉喜歡舒適可以大一號)   產 地 台灣   鞋 面 超纖皮料   內 裏 真豚皮乳膠鞋墊   鞋 底 橡膠防滑刻紋底   重 量 600公克 跟 型     筒 高  筒 圍  </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf111436babee6115a3c8?variation=6abdf10f490f290012208ce7</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad5870079ed75000c73a237/original.jpg?1792378624=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d3b70df63a001da2486a,642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef,627e1d42a926950021b28100</g:custom_label_0>
+          <g:custom_label_1>628c53ca70aa24000f0df254,63a3d4fc9d40e30020e0ad13</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>6ca920cde5f09a91bb009bf05be4acebb55cd54c</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>卡其</color>
+        </item>        <item>
+          <g:id>6abdf111436babee6115a3c8:6abdf10f490f290012208ce8</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮莫卡辛兩穿饅頭鞋 卡其(36-44)</g:title>
+          <g:description>    版 型 正常版(但腳版偏寬偏肉喜歡舒適可以大一號)   產 地 台灣   鞋 面 超纖皮料   內 裏 真豚皮乳膠鞋墊   鞋 底 橡膠防滑刻紋底   重 量 600公克 跟 型     筒 高  筒 圍  </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf111436babee6115a3c8?variation=6abdf10f490f290012208ce8</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad5870079ed75000c73a237/original.jpg?1792378624=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d3b70df63a001da2486a,642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef,627e1d42a926950021b28100</g:custom_label_0>
+          <g:custom_label_1>628c53ca70aa24000f0df254,63a3d4fc9d40e30020e0ad13</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>6ca920cde5f09a91bb009bf05be4acebb55cd54c</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>卡其</color>
+        </item>        <item>
+          <g:id>6abdf111436babee6115a3c8:6abdf10f490f290012208ce9</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮莫卡辛兩穿饅頭鞋 卡其(36-44)</g:title>
+          <g:description>    版 型 正常版(但腳版偏寬偏肉喜歡舒適可以大一號)   產 地 台灣   鞋 面 超纖皮料   內 裏 真豚皮乳膠鞋墊   鞋 底 橡膠防滑刻紋底   重 量 600公克 跟 型     筒 高  筒 圍  </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf111436babee6115a3c8?variation=6abdf10f490f290012208ce9</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad5870079ed75000c73a237/original.jpg?1792378624=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d3b70df63a001da2486a,642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef,627e1d42a926950021b28100</g:custom_label_0>
+          <g:custom_label_1>628c53ca70aa24000f0df254,63a3d4fc9d40e30020e0ad13</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>6ca920cde5f09a91bb009bf05be4acebb55cd54c</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>卡其</color>
+        </item>        <item>
+          <g:id>6abdf111436babee6115a3c8:6abdf10f490f290012208cea</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮莫卡辛兩穿饅頭鞋 卡其(36-44)</g:title>
+          <g:description>    版 型 正常版(但腳版偏寬偏肉喜歡舒適可以大一號)   產 地 台灣   鞋 面 超纖皮料   內 裏 真豚皮乳膠鞋墊   鞋 底 橡膠防滑刻紋底   重 量 600公克 跟 型     筒 高  筒 圍  </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf111436babee6115a3c8?variation=6abdf10f490f290012208cea</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad5870079ed75000c73a237/original.jpg?1792378624=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d3b70df63a001da2486a,642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef,627e1d42a926950021b28100</g:custom_label_0>
+          <g:custom_label_1>628c53ca70aa24000f0df254,63a3d4fc9d40e30020e0ad13</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>6ca920cde5f09a91bb009bf05be4acebb55cd54c</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>卡其</color>
+        </item>        <item>
+          <g:id>6abdf111436babee6115a3c8:6abdf10f490f290012208ceb</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮莫卡辛兩穿饅頭鞋 卡其(36-44)</g:title>
+          <g:description>    版 型 正常版(但腳版偏寬偏肉喜歡舒適可以大一號)   產 地 台灣   鞋 面 超纖皮料   內 裏 真豚皮乳膠鞋墊   鞋 底 橡膠防滑刻紋底   重 量 600公克 跟 型     筒 高  筒 圍  </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf111436babee6115a3c8?variation=6abdf10f490f290012208ceb</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad5870079ed75000c73a237/original.jpg?1792378624=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d3b70df63a001da2486a,642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef,627e1d42a926950021b28100</g:custom_label_0>
+          <g:custom_label_1>628c53ca70aa24000f0df254,63a3d4fc9d40e30020e0ad13</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>6ca920cde5f09a91bb009bf05be4acebb55cd54c</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>卡其</color>
+        </item>        <item>
+          <g:id>6abdf111436babee6115a3c8:6abdf10f490f290012208cec</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮莫卡辛兩穿饅頭鞋 卡其(36-44)</g:title>
+          <g:description>    版 型 正常版(但腳版偏寬偏肉喜歡舒適可以大一號)   產 地 台灣   鞋 面 超纖皮料   內 裏 真豚皮乳膠鞋墊   鞋 底 橡膠防滑刻紋底   重 量 600公克 跟 型     筒 高  筒 圍  </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf111436babee6115a3c8?variation=6abdf10f490f290012208cec</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad5870079ed75000c73a237/original.jpg?1792378624=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d3b70df63a001da2486a,642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef,627e1d42a926950021b28100</g:custom_label_0>
+          <g:custom_label_1>628c53ca70aa24000f0df254,63a3d4fc9d40e30020e0ad13</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>6ca920cde5f09a91bb009bf05be4acebb55cd54c</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>卡其</color>
+        </item>        <item>
+          <g:id>6abdf111436babee6115a3c8:6abdf10f490f290012208ced</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮莫卡辛兩穿饅頭鞋 卡其(36-44)</g:title>
+          <g:description>    版 型 正常版(但腳版偏寬偏肉喜歡舒適可以大一號)   產 地 台灣   鞋 面 超纖皮料   內 裏 真豚皮乳膠鞋墊   鞋 底 橡膠防滑刻紋底   重 量 600公克 跟 型     筒 高  筒 圍  </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf111436babee6115a3c8?variation=6abdf10f490f290012208ced</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad5870079ed75000c73a237/original.jpg?1792378624=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d3b70df63a001da2486a,642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef,627e1d42a926950021b28100</g:custom_label_0>
+          <g:custom_label_1>628c53ca70aa24000f0df254,63a3d4fc9d40e30020e0ad13</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>6ca920cde5f09a91bb009bf05be4acebb55cd54c</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>卡其</color>
+        </item>        <item>
+          <g:id>6abdf111436babee6115a3c8:6abdf10f490f290012208cee</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮莫卡辛兩穿饅頭鞋 卡其(36-44)</g:title>
+          <g:description>    版 型 正常版(但腳版偏寬偏肉喜歡舒適可以大一號)   產 地 台灣   鞋 面 超纖皮料   內 裏 真豚皮乳膠鞋墊   鞋 底 橡膠防滑刻紋底   重 量 600公克 跟 型     筒 高  筒 圍  </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf111436babee6115a3c8?variation=6abdf10f490f290012208cee</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad5870079ed75000c73a237/original.jpg?1792378624=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d3b70df63a001da2486a,642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef,627e1d42a926950021b28100</g:custom_label_0>
+          <g:custom_label_1>628c53ca70aa24000f0df254,63a3d4fc9d40e30020e0ad13</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>6ca920cde5f09a91bb009bf05be4acebb55cd54c</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>卡其</color>
+        </item>        <item>
+          <g:id>6abdf1e4811841fac734ffa0:6abdf1e283be560009712a02</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮莫卡辛兩穿饅頭鞋 棕(36-43)</g:title>
+          <g:description>    版 型 正常版(但腳版偏寬偏肉喜歡舒適可以大一號)   產 地 台灣   鞋 面 超纖皮料   內 裏 真豚皮乳膠鞋墊   鞋 底 橡膠防滑刻紋底   重 量 600公克 跟 型     筒 高  筒 圍  </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf1e4811841fac734ffa0?variation=6abdf1e283be560009712a02</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58837f1eaae1e7c0eec5f/original.jpg?1792378934=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a,627e1d42a926950021b28100,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>642a66d514ea9a001a4e6c84,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>e2c57d1f71643419f98e0a7dea225f88b6c4563b</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>棕</color>
+        </item>        <item>
+          <g:id>6abdf1e4811841fac734ffa0:6abdf1e283be560009712a03</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮莫卡辛兩穿饅頭鞋 棕(36-43)</g:title>
+          <g:description>    版 型 正常版(但腳版偏寬偏肉喜歡舒適可以大一號)   產 地 台灣   鞋 面 超纖皮料   內 裏 真豚皮乳膠鞋墊   鞋 底 橡膠防滑刻紋底   重 量 600公克 跟 型     筒 高  筒 圍  </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf1e4811841fac734ffa0?variation=6abdf1e283be560009712a03</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58837f1eaae1e7c0eec5f/original.jpg?1792378934=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a,627e1d42a926950021b28100,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>642a66d514ea9a001a4e6c84,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>e2c57d1f71643419f98e0a7dea225f88b6c4563b</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>棕</color>
+        </item>        <item>
+          <g:id>6abdf1e4811841fac734ffa0:6abdf1e283be560009712a04</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮莫卡辛兩穿饅頭鞋 棕(36-43)</g:title>
+          <g:description>    版 型 正常版(但腳版偏寬偏肉喜歡舒適可以大一號)   產 地 台灣   鞋 面 超纖皮料   內 裏 真豚皮乳膠鞋墊   鞋 底 橡膠防滑刻紋底   重 量 600公克 跟 型     筒 高  筒 圍  </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf1e4811841fac734ffa0?variation=6abdf1e283be560009712a04</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58837f1eaae1e7c0eec5f/original.jpg?1792378934=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a,627e1d42a926950021b28100,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>642a66d514ea9a001a4e6c84,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>e2c57d1f71643419f98e0a7dea225f88b6c4563b</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>棕</color>
+        </item>        <item>
+          <g:id>6abdf1e4811841fac734ffa0:6abdf1e283be560009712a05</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮莫卡辛兩穿饅頭鞋 棕(36-43)</g:title>
+          <g:description>    版 型 正常版(但腳版偏寬偏肉喜歡舒適可以大一號)   產 地 台灣   鞋 面 超纖皮料   內 裏 真豚皮乳膠鞋墊   鞋 底 橡膠防滑刻紋底   重 量 600公克 跟 型     筒 高  筒 圍  </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf1e4811841fac734ffa0?variation=6abdf1e283be560009712a05</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58837f1eaae1e7c0eec5f/original.jpg?1792378934=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a,627e1d42a926950021b28100,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>642a66d514ea9a001a4e6c84,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>e2c57d1f71643419f98e0a7dea225f88b6c4563b</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>棕</color>
+        </item>        <item>
+          <g:id>6abdf1e4811841fac734ffa0:6abdf1e283be560009712a06</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮莫卡辛兩穿饅頭鞋 棕(36-43)</g:title>
+          <g:description>    版 型 正常版(但腳版偏寬偏肉喜歡舒適可以大一號)   產 地 台灣   鞋 面 超纖皮料   內 裏 真豚皮乳膠鞋墊   鞋 底 橡膠防滑刻紋底   重 量 600公克 跟 型     筒 高  筒 圍  </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf1e4811841fac734ffa0?variation=6abdf1e283be560009712a06</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58837f1eaae1e7c0eec5f/original.jpg?1792378934=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a,627e1d42a926950021b28100,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>642a66d514ea9a001a4e6c84,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>e2c57d1f71643419f98e0a7dea225f88b6c4563b</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>棕</color>
+        </item>        <item>
+          <g:id>6abdf1e4811841fac734ffa0:6abdf1e283be560009712a07</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮莫卡辛兩穿饅頭鞋 棕(36-43)</g:title>
+          <g:description>    版 型 正常版(但腳版偏寬偏肉喜歡舒適可以大一號)   產 地 台灣   鞋 面 超纖皮料   內 裏 真豚皮乳膠鞋墊   鞋 底 橡膠防滑刻紋底   重 量 600公克 跟 型     筒 高  筒 圍  </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf1e4811841fac734ffa0?variation=6abdf1e283be560009712a07</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58837f1eaae1e7c0eec5f/original.jpg?1792378934=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a,627e1d42a926950021b28100,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>642a66d514ea9a001a4e6c84,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>e2c57d1f71643419f98e0a7dea225f88b6c4563b</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>棕</color>
+        </item>        <item>
+          <g:id>6abdf1e4811841fac734ffa0:6abdf1e283be560009712a08</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮莫卡辛兩穿饅頭鞋 棕(36-43)</g:title>
+          <g:description>    版 型 正常版(但腳版偏寬偏肉喜歡舒適可以大一號)   產 地 台灣   鞋 面 超纖皮料   內 裏 真豚皮乳膠鞋墊   鞋 底 橡膠防滑刻紋底   重 量 600公克 跟 型     筒 高  筒 圍  </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf1e4811841fac734ffa0?variation=6abdf1e283be560009712a08</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58837f1eaae1e7c0eec5f/original.jpg?1792378934=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a,627e1d42a926950021b28100,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>642a66d514ea9a001a4e6c84,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>e2c57d1f71643419f98e0a7dea225f88b6c4563b</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>棕</color>
+        </item>        <item>
+          <g:id>6abdf1e4811841fac734ffa0:6abdf1e283be560009712a09</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮莫卡辛兩穿饅頭鞋 棕(36-43)</g:title>
+          <g:description>    版 型 正常版(但腳版偏寬偏肉喜歡舒適可以大一號)   產 地 台灣   鞋 面 超纖皮料   內 裏 真豚皮乳膠鞋墊   鞋 底 橡膠防滑刻紋底   重 量 600公克 跟 型     筒 高  筒 圍  </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf1e4811841fac734ffa0?variation=6abdf1e283be560009712a09</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58837f1eaae1e7c0eec5f/original.jpg?1792378934=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a,627e1d42a926950021b28100,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>642a66d514ea9a001a4e6c84,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>e2c57d1f71643419f98e0a7dea225f88b6c4563b</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>棕</color>
+        </item>        <item>
+          <g:id>6abdf2c83b29c307719167a4:6abdf2c6d6b409000860aee6</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮莫卡辛兩穿饅頭鞋 咖啡(36-43)</g:title>
+          <g:description>    版 型 正常版(但腳版偏寬偏肉喜歡舒適可以大一號)   產 地 台灣   鞋 面 超纖皮料   內 裏 真豚皮乳膠鞋墊   鞋 底 橡膠防滑刻紋底   重 量 600公克 跟 型     筒 高  筒 圍  </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf2c83b29c307719167a4?variation=6abdf2c6d6b409000860aee6</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad588b71038b14a3af4ba31/original.jpg?1792379063=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254</g:custom_label_0>
+          <g:custom_label_1>642a66d514ea9a001a4e6c84,627e1d42a926950021b28100</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>bbcb94576af49d8cc933ee263959cde99f3f5362</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>咖啡</color>
+        </item>        <item>
+          <g:id>6abdf2c83b29c307719167a4:6abdf2c6d6b409000860aee7</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮莫卡辛兩穿饅頭鞋 咖啡(36-43)</g:title>
+          <g:description>    版 型 正常版(但腳版偏寬偏肉喜歡舒適可以大一號)   產 地 台灣   鞋 面 超纖皮料   內 裏 真豚皮乳膠鞋墊   鞋 底 橡膠防滑刻紋底   重 量 600公克 跟 型     筒 高  筒 圍  </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf2c83b29c307719167a4?variation=6abdf2c6d6b409000860aee7</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad588b71038b14a3af4ba31/original.jpg?1792379063=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254</g:custom_label_0>
+          <g:custom_label_1>642a66d514ea9a001a4e6c84,627e1d42a926950021b28100</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>bbcb94576af49d8cc933ee263959cde99f3f5362</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>咖啡</color>
+        </item>        <item>
+          <g:id>6abdf2c83b29c307719167a4:6abdf2c6d6b409000860aee8</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮莫卡辛兩穿饅頭鞋 咖啡(36-43)</g:title>
+          <g:description>    版 型 正常版(但腳版偏寬偏肉喜歡舒適可以大一號)   產 地 台灣   鞋 面 超纖皮料   內 裏 真豚皮乳膠鞋墊   鞋 底 橡膠防滑刻紋底   重 量 600公克 跟 型     筒 高  筒 圍  </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf2c83b29c307719167a4?variation=6abdf2c6d6b409000860aee8</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad588b71038b14a3af4ba31/original.jpg?1792379063=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254</g:custom_label_0>
+          <g:custom_label_1>642a66d514ea9a001a4e6c84,627e1d42a926950021b28100</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>bbcb94576af49d8cc933ee263959cde99f3f5362</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>咖啡</color>
+        </item>        <item>
+          <g:id>6abdf2c83b29c307719167a4:6abdf2c6d6b409000860aee9</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮莫卡辛兩穿饅頭鞋 咖啡(36-43)</g:title>
+          <g:description>    版 型 正常版(但腳版偏寬偏肉喜歡舒適可以大一號)   產 地 台灣   鞋 面 超纖皮料   內 裏 真豚皮乳膠鞋墊   鞋 底 橡膠防滑刻紋底   重 量 600公克 跟 型     筒 高  筒 圍  </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf2c83b29c307719167a4?variation=6abdf2c6d6b409000860aee9</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad588b71038b14a3af4ba31/original.jpg?1792379063=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254</g:custom_label_0>
+          <g:custom_label_1>642a66d514ea9a001a4e6c84,627e1d42a926950021b28100</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>bbcb94576af49d8cc933ee263959cde99f3f5362</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>咖啡</color>
+        </item>        <item>
+          <g:id>6abdf2c83b29c307719167a4:6abdf2c6d6b409000860aeea</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮莫卡辛兩穿饅頭鞋 咖啡(36-43)</g:title>
+          <g:description>    版 型 正常版(但腳版偏寬偏肉喜歡舒適可以大一號)   產 地 台灣   鞋 面 超纖皮料   內 裏 真豚皮乳膠鞋墊   鞋 底 橡膠防滑刻紋底   重 量 600公克 跟 型     筒 高  筒 圍  </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf2c83b29c307719167a4?variation=6abdf2c6d6b409000860aeea</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad588b71038b14a3af4ba31/original.jpg?1792379063=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254</g:custom_label_0>
+          <g:custom_label_1>642a66d514ea9a001a4e6c84,627e1d42a926950021b28100</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>bbcb94576af49d8cc933ee263959cde99f3f5362</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>咖啡</color>
+        </item>        <item>
+          <g:id>6abdf2c83b29c307719167a4:6abdf2c6d6b409000860aeeb</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮莫卡辛兩穿饅頭鞋 咖啡(36-43)</g:title>
+          <g:description>    版 型 正常版(但腳版偏寬偏肉喜歡舒適可以大一號)   產 地 台灣   鞋 面 超纖皮料   內 裏 真豚皮乳膠鞋墊   鞋 底 橡膠防滑刻紋底   重 量 600公克 跟 型     筒 高  筒 圍  </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf2c83b29c307719167a4?variation=6abdf2c6d6b409000860aeeb</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad588b71038b14a3af4ba31/original.jpg?1792379063=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254</g:custom_label_0>
+          <g:custom_label_1>642a66d514ea9a001a4e6c84,627e1d42a926950021b28100</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>bbcb94576af49d8cc933ee263959cde99f3f5362</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>咖啡</color>
+        </item>        <item>
+          <g:id>6abdf2c83b29c307719167a4:6abdf2c6d6b409000860aeec</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮莫卡辛兩穿饅頭鞋 咖啡(36-43)</g:title>
+          <g:description>    版 型 正常版(但腳版偏寬偏肉喜歡舒適可以大一號)   產 地 台灣   鞋 面 超纖皮料   內 裏 真豚皮乳膠鞋墊   鞋 底 橡膠防滑刻紋底   重 量 600公克 跟 型     筒 高  筒 圍  </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf2c83b29c307719167a4?variation=6abdf2c6d6b409000860aeec</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad588b71038b14a3af4ba31/original.jpg?1792379063=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254</g:custom_label_0>
+          <g:custom_label_1>642a66d514ea9a001a4e6c84,627e1d42a926950021b28100</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>bbcb94576af49d8cc933ee263959cde99f3f5362</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>咖啡</color>
+        </item>        <item>
+          <g:id>6abdf2c83b29c307719167a4:6abdf2c6d6b409000860aeed</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮莫卡辛兩穿饅頭鞋 咖啡(36-43)</g:title>
+          <g:description>    版 型 正常版(但腳版偏寬偏肉喜歡舒適可以大一號)   產 地 台灣   鞋 面 超纖皮料   內 裏 真豚皮乳膠鞋墊   鞋 底 橡膠防滑刻紋底   重 量 600公克 跟 型     筒 高  筒 圍  </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf2c83b29c307719167a4?variation=6abdf2c6d6b409000860aeed</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad588b71038b14a3af4ba31/original.jpg?1792379063=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254</g:custom_label_0>
+          <g:custom_label_1>642a66d514ea9a001a4e6c84,627e1d42a926950021b28100</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>bbcb94576af49d8cc933ee263959cde99f3f5362</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>咖啡</color>
+        </item>        <item>
+          <g:id>6abdf9e5266dd21d4a22253f:6abdf9e22c6aaa00098a6f38</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 深灰(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 深灰(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf9e5266dd21d4a22253f?variation=6abdf9e22c6aaa00098a6f38</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58972afcdf27976ef3b1f/original.jpg?1792379249=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>6ec27d59291e5c8b3bcfe5f16e9421cb8640b19e</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>深灰</color>
+        </item>        <item>
+          <g:id>6abdf9e5266dd21d4a22253f:6abdf9e22c6aaa00098a6f39</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 深灰(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 深灰(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf9e5266dd21d4a22253f?variation=6abdf9e22c6aaa00098a6f39</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58972afcdf27976ef3b1f/original.jpg?1792379249=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>6ec27d59291e5c8b3bcfe5f16e9421cb8640b19e</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>深灰</color>
+        </item>        <item>
+          <g:id>6abdf9e5266dd21d4a22253f:6abdf9e22c6aaa00098a6f3a</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 深灰(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 深灰(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf9e5266dd21d4a22253f?variation=6abdf9e22c6aaa00098a6f3a</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58972afcdf27976ef3b1f/original.jpg?1792379249=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>6ec27d59291e5c8b3bcfe5f16e9421cb8640b19e</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>深灰</color>
+        </item>        <item>
+          <g:id>6abdf9e5266dd21d4a22253f:6abdf9e22c6aaa00098a6f3b</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 深灰(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 深灰(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf9e5266dd21d4a22253f?variation=6abdf9e22c6aaa00098a6f3b</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58972afcdf27976ef3b1f/original.jpg?1792379249=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>6ec27d59291e5c8b3bcfe5f16e9421cb8640b19e</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>深灰</color>
+        </item>        <item>
+          <g:id>6abdf9e5266dd21d4a22253f:6abdf9e22c6aaa00098a6f3c</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 深灰(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 深灰(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf9e5266dd21d4a22253f?variation=6abdf9e22c6aaa00098a6f3c</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58972afcdf27976ef3b1f/original.jpg?1792379249=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>6ec27d59291e5c8b3bcfe5f16e9421cb8640b19e</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>深灰</color>
+        </item>        <item>
+          <g:id>6abdf9e5266dd21d4a22253f:6abdf9e22c6aaa00098a6f3d</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 深灰(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 深灰(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf9e5266dd21d4a22253f?variation=6abdf9e22c6aaa00098a6f3d</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58972afcdf27976ef3b1f/original.jpg?1792379249=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>6ec27d59291e5c8b3bcfe5f16e9421cb8640b19e</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>深灰</color>
+        </item>        <item>
+          <g:id>6abdf9e5266dd21d4a22253f:6abdf9e22c6aaa00098a6f3e</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 深灰(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 深灰(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf9e5266dd21d4a22253f?variation=6abdf9e22c6aaa00098a6f3e</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58972afcdf27976ef3b1f/original.jpg?1792379249=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>6ec27d59291e5c8b3bcfe5f16e9421cb8640b19e</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>深灰</color>
+        </item>        <item>
+          <g:id>6abdf9e5266dd21d4a22253f:6abdf9e22c6aaa00098a6f3f</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 深灰(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 深灰(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf9e5266dd21d4a22253f?variation=6abdf9e22c6aaa00098a6f3f</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58972afcdf27976ef3b1f/original.jpg?1792379249=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>6ec27d59291e5c8b3bcfe5f16e9421cb8640b19e</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>深灰</color>
+        </item>        <item>
+          <g:id>6abdf9e5266dd21d4a22253f:6abdf9e22c6aaa00098a6f40</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 深灰(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 深灰(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdf9e5266dd21d4a22253f?variation=6abdf9e22c6aaa00098a6f40</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58972afcdf27976ef3b1f/original.jpg?1792379249=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>6ec27d59291e5c8b3bcfe5f16e9421cb8640b19e</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>深灰</color>
+        </item>        <item>
+          <g:id>6abdfccf1038a75d926cfe1e:6abdfccce7adbc00084f4716</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 咖啡(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 咖啡(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfccf1038a75d926cfe1e?variation=6abdfccce7adbc00084f4716</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58b98f3d1420018bffb3f/original.jpg?1792379799=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,627e1d42a926950021b28100</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>8adcbcd35b4914d53f59fdbe9ed10fd4d2238697</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>咖啡</color>
+        </item>        <item>
+          <g:id>6abdfccf1038a75d926cfe1e:6abdfccce7adbc00084f4717</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 咖啡(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 咖啡(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfccf1038a75d926cfe1e?variation=6abdfccce7adbc00084f4717</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58b98f3d1420018bffb3f/original.jpg?1792379799=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,627e1d42a926950021b28100</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>8adcbcd35b4914d53f59fdbe9ed10fd4d2238697</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>咖啡</color>
+        </item>        <item>
+          <g:id>6abdfccf1038a75d926cfe1e:6abdfccce7adbc00084f4718</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 咖啡(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 咖啡(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfccf1038a75d926cfe1e?variation=6abdfccce7adbc00084f4718</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58b98f3d1420018bffb3f/original.jpg?1792379799=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,627e1d42a926950021b28100</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>8adcbcd35b4914d53f59fdbe9ed10fd4d2238697</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>咖啡</color>
+        </item>        <item>
+          <g:id>6abdfccf1038a75d926cfe1e:6abdfccce7adbc00084f4719</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 咖啡(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 咖啡(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfccf1038a75d926cfe1e?variation=6abdfccce7adbc00084f4719</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58b98f3d1420018bffb3f/original.jpg?1792379799=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,627e1d42a926950021b28100</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>8adcbcd35b4914d53f59fdbe9ed10fd4d2238697</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>咖啡</color>
+        </item>        <item>
+          <g:id>6abdfccf1038a75d926cfe1e:6abdfccce7adbc00084f471a</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 咖啡(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 咖啡(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfccf1038a75d926cfe1e?variation=6abdfccce7adbc00084f471a</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58b98f3d1420018bffb3f/original.jpg?1792379799=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,627e1d42a926950021b28100</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>8adcbcd35b4914d53f59fdbe9ed10fd4d2238697</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>咖啡</color>
+        </item>        <item>
+          <g:id>6abdfccf1038a75d926cfe1e:6abdfccce7adbc00084f471b</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 咖啡(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 咖啡(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfccf1038a75d926cfe1e?variation=6abdfccce7adbc00084f471b</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58b98f3d1420018bffb3f/original.jpg?1792379799=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,627e1d42a926950021b28100</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>8adcbcd35b4914d53f59fdbe9ed10fd4d2238697</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>咖啡</color>
+        </item>        <item>
+          <g:id>6abdfccf1038a75d926cfe1e:6abdfccce7adbc00084f471c</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 咖啡(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 咖啡(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfccf1038a75d926cfe1e?variation=6abdfccce7adbc00084f471c</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58b98f3d1420018bffb3f/original.jpg?1792379799=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,627e1d42a926950021b28100</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>8adcbcd35b4914d53f59fdbe9ed10fd4d2238697</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>咖啡</color>
+        </item>        <item>
+          <g:id>6abdfccf1038a75d926cfe1e:6abdfccce7adbc00084f471d</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 咖啡(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 咖啡(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfccf1038a75d926cfe1e?variation=6abdfccce7adbc00084f471d</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58b98f3d1420018bffb3f/original.jpg?1792379799=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,627e1d42a926950021b28100</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>8adcbcd35b4914d53f59fdbe9ed10fd4d2238697</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>咖啡</color>
+        </item>        <item>
+          <g:id>6abdfccf1038a75d926cfe1e:6abdfccce7adbc00084f471e</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 咖啡(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 咖啡(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfccf1038a75d926cfe1e?variation=6abdfccce7adbc00084f471e</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58b98f3d1420018bffb3f/original.jpg?1792379799=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,627e1d42a926950021b28100</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>8adcbcd35b4914d53f59fdbe9ed10fd4d2238697</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>咖啡</color>
+        </item>        <item>
+          <g:id>6abdfd51c46d5cd6cc26a0ea:6abdfd4f75585b000a0d5596</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 卡其(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 卡其(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfd51c46d5cd6cc26a0ea?variation=6abdfd4f75585b000a0d5596</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58c5a44e8a112d9d6f793/original.jpg?1792379994=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,63a3d3b70df63a001da2486a</g:custom_label_0>
+          <g:custom_label_1>642a66d514ea9a001a4e6c84,627e1d42a926950021b28100</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>ccba9366cd69fcaa5bab753992368b6f89b7e16a</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>卡其</color>
+        </item>        <item>
+          <g:id>6abdfd51c46d5cd6cc26a0ea:6abdfd4f75585b000a0d5597</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 卡其(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 卡其(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfd51c46d5cd6cc26a0ea?variation=6abdfd4f75585b000a0d5597</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58c5a44e8a112d9d6f793/original.jpg?1792379994=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,63a3d3b70df63a001da2486a</g:custom_label_0>
+          <g:custom_label_1>642a66d514ea9a001a4e6c84,627e1d42a926950021b28100</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>ccba9366cd69fcaa5bab753992368b6f89b7e16a</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>卡其</color>
+        </item>        <item>
+          <g:id>6abdfd51c46d5cd6cc26a0ea:6abdfd4f75585b000a0d5598</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 卡其(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 卡其(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfd51c46d5cd6cc26a0ea?variation=6abdfd4f75585b000a0d5598</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58c5a44e8a112d9d6f793/original.jpg?1792379994=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,63a3d3b70df63a001da2486a</g:custom_label_0>
+          <g:custom_label_1>642a66d514ea9a001a4e6c84,627e1d42a926950021b28100</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>ccba9366cd69fcaa5bab753992368b6f89b7e16a</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>卡其</color>
+        </item>        <item>
+          <g:id>6abdfd51c46d5cd6cc26a0ea:6abdfd4f75585b000a0d5599</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 卡其(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 卡其(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfd51c46d5cd6cc26a0ea?variation=6abdfd4f75585b000a0d5599</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58c5a44e8a112d9d6f793/original.jpg?1792379994=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,63a3d3b70df63a001da2486a</g:custom_label_0>
+          <g:custom_label_1>642a66d514ea9a001a4e6c84,627e1d42a926950021b28100</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>ccba9366cd69fcaa5bab753992368b6f89b7e16a</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>卡其</color>
+        </item>        <item>
+          <g:id>6abdfd51c46d5cd6cc26a0ea:6abdfd4f75585b000a0d559a</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 卡其(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 卡其(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfd51c46d5cd6cc26a0ea?variation=6abdfd4f75585b000a0d559a</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58c5a44e8a112d9d6f793/original.jpg?1792379994=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,63a3d3b70df63a001da2486a</g:custom_label_0>
+          <g:custom_label_1>642a66d514ea9a001a4e6c84,627e1d42a926950021b28100</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>ccba9366cd69fcaa5bab753992368b6f89b7e16a</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>卡其</color>
+        </item>        <item>
+          <g:id>6abdfd51c46d5cd6cc26a0ea:6abdfd4f75585b000a0d559b</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 卡其(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 卡其(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfd51c46d5cd6cc26a0ea?variation=6abdfd4f75585b000a0d559b</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58c5a44e8a112d9d6f793/original.jpg?1792379994=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,63a3d3b70df63a001da2486a</g:custom_label_0>
+          <g:custom_label_1>642a66d514ea9a001a4e6c84,627e1d42a926950021b28100</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>ccba9366cd69fcaa5bab753992368b6f89b7e16a</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>卡其</color>
+        </item>        <item>
+          <g:id>6abdfd51c46d5cd6cc26a0ea:6abdfd4f75585b000a0d559c</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 卡其(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 卡其(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfd51c46d5cd6cc26a0ea?variation=6abdfd4f75585b000a0d559c</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58c5a44e8a112d9d6f793/original.jpg?1792379994=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,63a3d3b70df63a001da2486a</g:custom_label_0>
+          <g:custom_label_1>642a66d514ea9a001a4e6c84,627e1d42a926950021b28100</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>ccba9366cd69fcaa5bab753992368b6f89b7e16a</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>卡其</color>
+        </item>        <item>
+          <g:id>6abdfd51c46d5cd6cc26a0ea:6abdfd4f75585b000a0d559d</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 卡其(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 卡其(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfd51c46d5cd6cc26a0ea?variation=6abdfd4f75585b000a0d559d</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58c5a44e8a112d9d6f793/original.jpg?1792379994=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,63a3d3b70df63a001da2486a</g:custom_label_0>
+          <g:custom_label_1>642a66d514ea9a001a4e6c84,627e1d42a926950021b28100</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>ccba9366cd69fcaa5bab753992368b6f89b7e16a</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>卡其</color>
+        </item>        <item>
+          <g:id>6abdfd51c46d5cd6cc26a0ea:6abdfd4f75585b000a0d559e</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 卡其(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 卡其(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfd51c46d5cd6cc26a0ea?variation=6abdfd4f75585b000a0d559e</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58c5a44e8a112d9d6f793/original.jpg?1792379994=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,63a3d3b70df63a001da2486a</g:custom_label_0>
+          <g:custom_label_1>642a66d514ea9a001a4e6c84,627e1d42a926950021b28100</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>ccba9366cd69fcaa5bab753992368b6f89b7e16a</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>卡其</color>
+        </item>        <item>
+          <g:id>6abdfde53d3f236fc2de2e48:6abdfde2d6b409001060af0d</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 棕(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 棕(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfde53d3f236fc2de2e48?variation=6abdfde2d6b409001060af0d</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58d10001d111ff8f5b56e/original.jpg?1792380176=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,628c67614ec0e3001ea783ef,627e1d42a926950021b28100,642a66d514ea9a001a4e6c84</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>ab669a3a77fea81eade52409fd9f841445421f9d</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>棕</color>
+        </item>        <item>
+          <g:id>6abdfde53d3f236fc2de2e48:6abdfde2d6b409001060af0e</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 棕(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 棕(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfde53d3f236fc2de2e48?variation=6abdfde2d6b409001060af0e</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58d10001d111ff8f5b56e/original.jpg?1792380176=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,628c67614ec0e3001ea783ef,627e1d42a926950021b28100,642a66d514ea9a001a4e6c84</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>ab669a3a77fea81eade52409fd9f841445421f9d</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>棕</color>
+        </item>        <item>
+          <g:id>6abdfde53d3f236fc2de2e48:6abdfde2d6b409001060af0f</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 棕(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 棕(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfde53d3f236fc2de2e48?variation=6abdfde2d6b409001060af0f</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58d10001d111ff8f5b56e/original.jpg?1792380176=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,628c67614ec0e3001ea783ef,627e1d42a926950021b28100,642a66d514ea9a001a4e6c84</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>ab669a3a77fea81eade52409fd9f841445421f9d</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>棕</color>
+        </item>        <item>
+          <g:id>6abdfde53d3f236fc2de2e48:6abdfde2d6b409001060af10</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 棕(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 棕(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfde53d3f236fc2de2e48?variation=6abdfde2d6b409001060af10</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58d10001d111ff8f5b56e/original.jpg?1792380176=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,628c67614ec0e3001ea783ef,627e1d42a926950021b28100,642a66d514ea9a001a4e6c84</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>ab669a3a77fea81eade52409fd9f841445421f9d</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>棕</color>
+        </item>        <item>
+          <g:id>6abdfde53d3f236fc2de2e48:6abdfde2d6b409001060af11</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 棕(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 棕(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfde53d3f236fc2de2e48?variation=6abdfde2d6b409001060af11</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58d10001d111ff8f5b56e/original.jpg?1792380176=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,628c67614ec0e3001ea783ef,627e1d42a926950021b28100,642a66d514ea9a001a4e6c84</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>ab669a3a77fea81eade52409fd9f841445421f9d</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>棕</color>
+        </item>        <item>
+          <g:id>6abdfde53d3f236fc2de2e48:6abdfde2d6b409001060af12</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 棕(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 棕(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfde53d3f236fc2de2e48?variation=6abdfde2d6b409001060af12</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58d10001d111ff8f5b56e/original.jpg?1792380176=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,628c67614ec0e3001ea783ef,627e1d42a926950021b28100,642a66d514ea9a001a4e6c84</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>ab669a3a77fea81eade52409fd9f841445421f9d</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>棕</color>
+        </item>        <item>
+          <g:id>6abdfde53d3f236fc2de2e48:6abdfde2d6b409001060af13</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 棕(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 棕(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfde53d3f236fc2de2e48?variation=6abdfde2d6b409001060af13</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58d10001d111ff8f5b56e/original.jpg?1792380176=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,628c67614ec0e3001ea783ef,627e1d42a926950021b28100,642a66d514ea9a001a4e6c84</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>ab669a3a77fea81eade52409fd9f841445421f9d</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>棕</color>
+        </item>        <item>
+          <g:id>6abdfde53d3f236fc2de2e48:6abdfde2d6b409001060af14</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 棕(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 棕(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfde53d3f236fc2de2e48?variation=6abdfde2d6b409001060af14</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58d10001d111ff8f5b56e/original.jpg?1792380176=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,628c67614ec0e3001ea783ef,627e1d42a926950021b28100,642a66d514ea9a001a4e6c84</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a,628c53ca70aa24000f0df254</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>ab669a3a77fea81eade52409fd9f841445421f9d</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>棕</color>
+        </item>        <item>
+          <g:id>6abdfe65b237f9f169abd77e:6abdfe62c446690017c0f0b5</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 紫紅(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 紫紅(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfe65b237f9f169abd77e?variation=6abdfe62c446690017c0f0b5</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58e24a69679000e87b0f8/original.jpg?1792380452=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>628c53ca70aa24000f0df254,627e1d42a926950021b28100</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>79aeabe47ba847494ce1adf4a780e852506ca2af</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>紫紅</color>
+        </item>        <item>
+          <g:id>6abdfe65b237f9f169abd77e:6abdfe62c446690017c0f0b6</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 紫紅(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 紫紅(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfe65b237f9f169abd77e?variation=6abdfe62c446690017c0f0b6</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58e24a69679000e87b0f8/original.jpg?1792380452=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>628c53ca70aa24000f0df254,627e1d42a926950021b28100</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>79aeabe47ba847494ce1adf4a780e852506ca2af</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>紫紅</color>
+        </item>        <item>
+          <g:id>6abdfe65b237f9f169abd77e:6abdfe62c446690017c0f0b7</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 紫紅(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 紫紅(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfe65b237f9f169abd77e?variation=6abdfe62c446690017c0f0b7</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58e24a69679000e87b0f8/original.jpg?1792380452=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>628c53ca70aa24000f0df254,627e1d42a926950021b28100</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>79aeabe47ba847494ce1adf4a780e852506ca2af</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>紫紅</color>
+        </item>        <item>
+          <g:id>6abdfe65b237f9f169abd77e:6abdfe62c446690017c0f0b8</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 紫紅(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 紫紅(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfe65b237f9f169abd77e?variation=6abdfe62c446690017c0f0b8</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58e24a69679000e87b0f8/original.jpg?1792380452=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>628c53ca70aa24000f0df254,627e1d42a926950021b28100</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>79aeabe47ba847494ce1adf4a780e852506ca2af</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>紫紅</color>
+        </item>        <item>
+          <g:id>6abdfe65b237f9f169abd77e:6abdfe62c446690017c0f0b9</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 紫紅(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 紫紅(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfe65b237f9f169abd77e?variation=6abdfe62c446690017c0f0b9</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58e24a69679000e87b0f8/original.jpg?1792380452=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>628c53ca70aa24000f0df254,627e1d42a926950021b28100</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>79aeabe47ba847494ce1adf4a780e852506ca2af</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>紫紅</color>
+        </item>        <item>
+          <g:id>6abdfe65b237f9f169abd77e:6abdfe62c446690017c0f0ba</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 紫紅(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 紫紅(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfe65b237f9f169abd77e?variation=6abdfe62c446690017c0f0ba</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58e24a69679000e87b0f8/original.jpg?1792380452=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>628c53ca70aa24000f0df254,627e1d42a926950021b28100</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>79aeabe47ba847494ce1adf4a780e852506ca2af</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>紫紅</color>
+        </item>        <item>
+          <g:id>6abdfe65b237f9f169abd77e:6abdfe62c446690017c0f0bb</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 紫紅(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 紫紅(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfe65b237f9f169abd77e?variation=6abdfe62c446690017c0f0bb</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58e24a69679000e87b0f8/original.jpg?1792380452=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>628c53ca70aa24000f0df254,627e1d42a926950021b28100</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>79aeabe47ba847494ce1adf4a780e852506ca2af</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>紫紅</color>
+        </item>        <item>
+          <g:id>6abdfe65b237f9f169abd77e:6abdfe62c446690017c0f0bc</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 紫紅(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 紫紅(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfe65b237f9f169abd77e?variation=6abdfe62c446690017c0f0bc</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58e24a69679000e87b0f8/original.jpg?1792380452=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>628c53ca70aa24000f0df254,627e1d42a926950021b28100</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>79aeabe47ba847494ce1adf4a780e852506ca2af</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>紫紅</color>
+        </item>        <item>
+          <g:id>6abdfef5c0b0fb6683b9bbf3:6abdfef22ad4b2000c3e0777</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 亮紫(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 亮紫(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfef5c0b0fb6683b9bbf3?variation=6abdfef22ad4b2000c3e0777</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58eca85d2970764fa742b/original.jpg?1792380618=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,63a3d4fc9d40e30020e0ad13,642a66d514ea9a001a4e6c84,628c53ca70aa24000f0df254</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>60cc3e8b893710d08840aa46cb64c1da4bb47adc</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>亮紫</color>
+        </item>        <item>
+          <g:id>6abdfef5c0b0fb6683b9bbf3:6abdfef22ad4b2000c3e0778</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 亮紫(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 亮紫(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfef5c0b0fb6683b9bbf3?variation=6abdfef22ad4b2000c3e0778</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58eca85d2970764fa742b/original.jpg?1792380618=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,63a3d4fc9d40e30020e0ad13,642a66d514ea9a001a4e6c84,628c53ca70aa24000f0df254</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>60cc3e8b893710d08840aa46cb64c1da4bb47adc</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>亮紫</color>
+        </item>        <item>
+          <g:id>6abdfef5c0b0fb6683b9bbf3:6abdfef22ad4b2000c3e0779</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 亮紫(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 亮紫(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfef5c0b0fb6683b9bbf3?variation=6abdfef22ad4b2000c3e0779</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58eca85d2970764fa742b/original.jpg?1792380618=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,63a3d4fc9d40e30020e0ad13,642a66d514ea9a001a4e6c84,628c53ca70aa24000f0df254</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>60cc3e8b893710d08840aa46cb64c1da4bb47adc</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>亮紫</color>
+        </item>        <item>
+          <g:id>6abdfef5c0b0fb6683b9bbf3:6abdfef22ad4b2000c3e077a</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 亮紫(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 亮紫(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfef5c0b0fb6683b9bbf3?variation=6abdfef22ad4b2000c3e077a</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58eca85d2970764fa742b/original.jpg?1792380618=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,63a3d4fc9d40e30020e0ad13,642a66d514ea9a001a4e6c84,628c53ca70aa24000f0df254</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>60cc3e8b893710d08840aa46cb64c1da4bb47adc</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>亮紫</color>
+        </item>        <item>
+          <g:id>6abdfef5c0b0fb6683b9bbf3:6abdfef22ad4b2000c3e077b</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 亮紫(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 亮紫(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfef5c0b0fb6683b9bbf3?variation=6abdfef22ad4b2000c3e077b</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58eca85d2970764fa742b/original.jpg?1792380618=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,63a3d4fc9d40e30020e0ad13,642a66d514ea9a001a4e6c84,628c53ca70aa24000f0df254</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>60cc3e8b893710d08840aa46cb64c1da4bb47adc</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>亮紫</color>
+        </item>        <item>
+          <g:id>6abdfef5c0b0fb6683b9bbf3:6abdfef22ad4b2000c3e077c</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 亮紫(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 亮紫(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfef5c0b0fb6683b9bbf3?variation=6abdfef22ad4b2000c3e077c</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58eca85d2970764fa742b/original.jpg?1792380618=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,63a3d4fc9d40e30020e0ad13,642a66d514ea9a001a4e6c84,628c53ca70aa24000f0df254</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>60cc3e8b893710d08840aa46cb64c1da4bb47adc</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>亮紫</color>
+        </item>        <item>
+          <g:id>6abdfef5c0b0fb6683b9bbf3:6abdfef22ad4b2000c3e077d</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 亮紫(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 亮紫(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfef5c0b0fb6683b9bbf3?variation=6abdfef22ad4b2000c3e077d</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58eca85d2970764fa742b/original.jpg?1792380618=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,63a3d4fc9d40e30020e0ad13,642a66d514ea9a001a4e6c84,628c53ca70aa24000f0df254</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>60cc3e8b893710d08840aa46cb64c1da4bb47adc</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>亮紫</color>
+        </item>        <item>
+          <g:id>6abdfef5c0b0fb6683b9bbf3:6abdfef22ad4b2000c3e077e</g:id>
+          <g:title>FM SHOES 全真皮足弓麂皮饅頭鞋 亮紫(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓麂皮饅頭鞋 亮紫(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abdfef5c0b0fb6683b9bbf3?variation=6abdfef22ad4b2000c3e077e</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad58eca85d2970764fa742b/original.jpg?1792380618=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,63a3d4fc9d40e30020e0ad13,642a66d514ea9a001a4e6c84,628c53ca70aa24000f0df254</g:custom_label_0>
+          <g:custom_label_1>63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>60cc3e8b893710d08840aa46cb64c1da4bb47adc</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>亮紫</color>
+        </item>        <item>
+          <g:id>6abf0c931548d75102a31215:6abf0c90b89b0100148bc3fa</g:id>
+          <g:title>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 棕(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 棕(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abf0c931548d75102a31215?variation=6abf0c90b89b0100148bc3fa</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad57d4570a826bec6300f7f/original.jpg?1792376133=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,63a3d3b70df63a001da2486a</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,642a66d514ea9a001a4e6c84</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>a7b0ae267356f7e9bd058f026f8c75e7769b8d83</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>棕</color>
+        </item>        <item>
+          <g:id>6abf0c931548d75102a31215:6abf0c90b89b0100148bc3fb</g:id>
+          <g:title>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 棕(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 棕(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abf0c931548d75102a31215?variation=6abf0c90b89b0100148bc3fb</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad57d4570a826bec6300f7f/original.jpg?1792376133=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,63a3d3b70df63a001da2486a</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,642a66d514ea9a001a4e6c84</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>a7b0ae267356f7e9bd058f026f8c75e7769b8d83</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>棕</color>
+        </item>        <item>
+          <g:id>6abf0c931548d75102a31215:6abf0c90b89b0100148bc3fc</g:id>
+          <g:title>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 棕(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 棕(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abf0c931548d75102a31215?variation=6abf0c90b89b0100148bc3fc</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad57d4570a826bec6300f7f/original.jpg?1792376133=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,63a3d3b70df63a001da2486a</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,642a66d514ea9a001a4e6c84</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>a7b0ae267356f7e9bd058f026f8c75e7769b8d83</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>棕</color>
+        </item>        <item>
+          <g:id>6abf0c931548d75102a31215:6abf0c90b89b0100148bc3fd</g:id>
+          <g:title>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 棕(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 棕(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abf0c931548d75102a31215?variation=6abf0c90b89b0100148bc3fd</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad57d4570a826bec6300f7f/original.jpg?1792376133=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,63a3d3b70df63a001da2486a</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,642a66d514ea9a001a4e6c84</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>a7b0ae267356f7e9bd058f026f8c75e7769b8d83</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>棕</color>
+        </item>        <item>
+          <g:id>6abf0c931548d75102a31215:6abf0c90b89b0100148bc3fe</g:id>
+          <g:title>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 棕(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 棕(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abf0c931548d75102a31215?variation=6abf0c90b89b0100148bc3fe</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad57d4570a826bec6300f7f/original.jpg?1792376133=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,63a3d3b70df63a001da2486a</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,642a66d514ea9a001a4e6c84</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>a7b0ae267356f7e9bd058f026f8c75e7769b8d83</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>棕</color>
+        </item>        <item>
+          <g:id>6abf0c931548d75102a31215:6abf0c90b89b0100148bc3ff</g:id>
+          <g:title>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 棕(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 棕(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abf0c931548d75102a31215?variation=6abf0c90b89b0100148bc3ff</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad57d4570a826bec6300f7f/original.jpg?1792376133=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,63a3d3b70df63a001da2486a</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,642a66d514ea9a001a4e6c84</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>a7b0ae267356f7e9bd058f026f8c75e7769b8d83</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>棕</color>
+        </item>        <item>
+          <g:id>6abf0c931548d75102a31215:6abf0c90b89b0100148bc400</g:id>
+          <g:title>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 棕(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 棕(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abf0c931548d75102a31215?variation=6abf0c90b89b0100148bc400</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad57d4570a826bec6300f7f/original.jpg?1792376133=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,63a3d3b70df63a001da2486a</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,642a66d514ea9a001a4e6c84</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>a7b0ae267356f7e9bd058f026f8c75e7769b8d83</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>棕</color>
+        </item>        <item>
+          <g:id>6abf0c931548d75102a31215:6abf0c90b89b0100148bc401</g:id>
+          <g:title>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 棕(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 棕(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abf0c931548d75102a31215?variation=6abf0c90b89b0100148bc401</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad57d4570a826bec6300f7f/original.jpg?1792376133=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,63a3d3b70df63a001da2486a</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,642a66d514ea9a001a4e6c84</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>a7b0ae267356f7e9bd058f026f8c75e7769b8d83</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>棕</color>
+        </item>        <item>
+          <g:id>6abf0c931548d75102a31215:6abf0c90b89b0100148bc402</g:id>
+          <g:title>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 棕(36-44)</g:title>
+          <g:description>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 棕(36-44)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abf0c931548d75102a31215?variation=6abf0c90b89b0100148bc402</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad57d4570a826bec6300f7f/original.jpg?1792376133=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,628c67614ec0e3001ea783ef,628c53ca70aa24000f0df254,63a3d3b70df63a001da2486a</g:custom_label_0>
+          <g:custom_label_1>63a3d4fc9d40e30020e0ad13,642a66d514ea9a001a4e6c84</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>a7b0ae267356f7e9bd058f026f8c75e7769b8d83</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>棕</color>
+        </item>        <item>
+          <g:id>6abf0d931e2b245c9eb1cf11:6abf0d90901d120016c467c2</g:id>
+          <g:title>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 紫紅(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 紫紅(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abf0d931e2b245c9eb1cf11?variation=6abf0d90901d120016c467c2</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad57e1de95a3d001648353b/original.jpg?1792376349=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,628c53ca70aa24000f0df254,642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>627e1d42a926950021b28100,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>4751a18a1985280a097daddd98ec8bbbe65cbc29</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>紫紅</color>
+        </item>        <item>
+          <g:id>6abf0d931e2b245c9eb1cf11:6abf0d90901d120016c467c3</g:id>
+          <g:title>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 紫紅(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 紫紅(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abf0d931e2b245c9eb1cf11?variation=6abf0d90901d120016c467c3</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad57e1de95a3d001648353b/original.jpg?1792376349=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,628c53ca70aa24000f0df254,642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>627e1d42a926950021b28100,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>4751a18a1985280a097daddd98ec8bbbe65cbc29</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>紫紅</color>
+        </item>        <item>
+          <g:id>6abf0d931e2b245c9eb1cf11:6abf0d90901d120016c467c4</g:id>
+          <g:title>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 紫紅(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 紫紅(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abf0d931e2b245c9eb1cf11?variation=6abf0d90901d120016c467c4</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad57e1de95a3d001648353b/original.jpg?1792376349=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,628c53ca70aa24000f0df254,642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>627e1d42a926950021b28100,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>4751a18a1985280a097daddd98ec8bbbe65cbc29</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>紫紅</color>
+        </item>        <item>
+          <g:id>6abf0d931e2b245c9eb1cf11:6abf0d90901d120016c467c5</g:id>
+          <g:title>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 紫紅(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 紫紅(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abf0d931e2b245c9eb1cf11?variation=6abf0d90901d120016c467c5</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad57e1de95a3d001648353b/original.jpg?1792376349=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,628c53ca70aa24000f0df254,642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>627e1d42a926950021b28100,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>4751a18a1985280a097daddd98ec8bbbe65cbc29</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>紫紅</color>
+        </item>        <item>
+          <g:id>6abf0d931e2b245c9eb1cf11:6abf0d90901d120016c467c6</g:id>
+          <g:title>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 紫紅(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 紫紅(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abf0d931e2b245c9eb1cf11?variation=6abf0d90901d120016c467c6</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad57e1de95a3d001648353b/original.jpg?1792376349=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,628c53ca70aa24000f0df254,642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>627e1d42a926950021b28100,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>4751a18a1985280a097daddd98ec8bbbe65cbc29</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>紫紅</color>
+        </item>        <item>
+          <g:id>6abf0d931e2b245c9eb1cf11:6abf0d90901d120016c467c7</g:id>
+          <g:title>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 紫紅(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 紫紅(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abf0d931e2b245c9eb1cf11?variation=6abf0d90901d120016c467c7</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad57e1de95a3d001648353b/original.jpg?1792376349=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,628c53ca70aa24000f0df254,642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>627e1d42a926950021b28100,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>4751a18a1985280a097daddd98ec8bbbe65cbc29</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>紫紅</color>
+        </item>        <item>
+          <g:id>6abf0d931e2b245c9eb1cf11:6abf0d90901d120016c467c8</g:id>
+          <g:title>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 紫紅(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 紫紅(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abf0d931e2b245c9eb1cf11?variation=6abf0d90901d120016c467c8</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad57e1de95a3d001648353b/original.jpg?1792376349=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,628c53ca70aa24000f0df254,642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>627e1d42a926950021b28100,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>4751a18a1985280a097daddd98ec8bbbe65cbc29</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>紫紅</color>
+        </item>        <item>
+          <g:id>6abf0d931e2b245c9eb1cf11:6abf0d90901d120016c467c9</g:id>
+          <g:title>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 紫紅(36-43)</g:title>
+          <g:description>FM SHOES 全真皮足弓減壓麂皮半包拖饅頭鞋 紫紅(36-43)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6abf0d931e2b245c9eb1cf11?variation=6abf0d90901d120016c467c9</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad57e1de95a3d001648353b/original.jpg?1792376349=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>每週新品 &gt; 10.21 NEW</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,628c53ca70aa24000f0df254,642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>627e1d42a926950021b28100,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>4751a18a1985280a097daddd98ec8bbbe65cbc29</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>紫紅</color>
         </item>    </channel></rss>
