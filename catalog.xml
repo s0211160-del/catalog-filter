@@ -6688,7 +6688,7 @@
           <g:custom_label_0>628c67614ec0e3001ea783ef,65dbf57493fd5b001a189882,63a3d4fc9d40e30020e0ad13,642a66d514ea9a001a4e6c84</g:custom_label_0>
           <g:custom_label_1>63a3d3b70df63a001da2486a,63a522cf0b9d1d000e32c553,628c5462c9c9100012ddd597</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>preorder</g:availability>
           <g:price>780 TWD</g:price>
           <g:item_group_id>b0ec3f239a63acbd188ea0896ce35c2aa8bee3ec</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -11840,7 +11840,7 @@
           <g:custom_label_0>642a66d514ea9a001a4e6c84,627e1d42a926950021b28100,63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a</g:custom_label_0>
           <g:custom_label_1>63a522cf0b9d1d000e32c553</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>preorder</g:availability>
           <g:price>1880 TWD</g:price>
           <g:item_group_id>4ed7bc1f8ff4e15e501fd227eb343f9c6724b24e</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -16721,25 +16721,6 @@
           <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
           <color>灰藍</color>
         </item>        <item>
-          <g:id>6837f69ff90834000c4b7cc9:6837f69dc335f60009d843e6</g:id>
-          <g:title>NEUTRAL 健走慢跑全能運動秒穿鞋 灰藍(36-43)</g:title>
-          <g:description>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: </g:description>
-          <g:link>https://www.fmshoes.com.tw/products/6837f69ff90834000c4b7cc9?variation=6837f69dc335f60009d843e6</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/68382557b66717000e9a02bd/original.jpg?1748510038</g:image_link>
-          <g:product_type>NEUTRAL 輕機能系列鞋款 &gt; 秒穿鞋</g:product_type>
-          <g:custom_label_0>63a3d3b70df63a001da2486a,642a66d514ea9a001a4e6c84,628c67614ec0e3001ea783ef,628c537cf8a1b90024f10238</g:custom_label_0>
-          <g:custom_label_1>627e1d42a926950021b28100</g:custom_label_1>
-          <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
-          <g:price>1680 TWD</g:price>
-          <g:item_group_id>c8962401ebcbd0e353d540b8e33a7c57f6bfb171</g:item_group_id>
-          <g:brand>FM SHOES</g:brand>
-          <g:age_group>all ages</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
-          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
-          <color>灰藍</color>
-        </item>        <item>
           <g:id>6837f69ff90834000c4b7cc9:6837f69dc335f60009d843e7</g:id>
           <g:title>NEUTRAL 健走慢跑全能運動秒穿鞋 灰藍(36-43)</g:title>
           <g:description>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: </g:description>
@@ -19019,25 +19000,6 @@
           <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
           <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
           <color>深咖</color>
-        </item>        <item>
-          <g:id>68cba16a96900300109d008a:68cba16895b2e1000c404163</g:id>
-          <g:title>NEUTRAL 經典六角烤漆釦減壓拖鞋 灰(35-44)</g:title>
-          <g:description>NEUTRAL 經典六角烤漆釦減壓拖鞋 灰(35-44)</g:description>
-          <g:link>https://www.fmshoes.com.tw/products/68cba16a96900300109d008a?variation=68cba16895b2e1000c404163</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/68cce6ef6e3c8f0012851e79/original.jpg?1758258926=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
-          <g:product_type>NEUTRAL 輕機能系列鞋款 &gt; 男生機能鞋</g:product_type>
-          <g:custom_label_0>627e1d42a926950021b28100,63a3d3b70df63a001da2486a,628c537cf8a1b90024f10238,642a66d514ea9a001a4e6c84</g:custom_label_0>
-          <g:custom_label_1>628c67614ec0e3001ea783ef</g:custom_label_1>
-          <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
-          <g:price>1480 TWD</g:price>
-          <g:item_group_id>645a7475771226f7814f16616815ee76ece5a321</g:item_group_id>
-          <g:brand>FM SHOES</g:brand>
-          <g:age_group>all ages</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
-          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
-          <color>灰</color>
         </item>        <item>
           <g:id>68cba16a96900300109d008a:68cba16895b2e1000c404164</g:id>
           <g:title>NEUTRAL 經典六角烤漆釦減壓拖鞋 灰(35-44)</g:title>
@@ -26102,25 +26064,6 @@
           <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
           <color>深咖</color>
         </item>        <item>
-          <g:id>69684591e520a40014c6b5c1:6968458ff08e28000d00866f</g:id>
-          <g:title>FM SHOES 馬銜扣輕量厚底軟Q樂福鞋 黑(37-41)</g:title>
-          <g:description>        </g:description>
-          <g:link>https://www.fmshoes.com.tw/products/69684591e520a40014c6b5c1?variation=6968458ff08e28000d00866f</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/698991477cca442b8ca4e625/original.jpg?1770623303=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
-          <g:product_type>限時優惠 &gt; 10.15-10.31｜寵愛OL計畫</g:product_type>
-          <g:custom_label_0>628c5462c9c9100012ddd597,63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
-          <g:custom_label_1>642a66d514ea9a001a4e6c84</g:custom_label_1>
-          <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
-          <g:price>1680 TWD</g:price>
-          <g:item_group_id>63d4e5d8e87782b6365f33ac463614cb6f1afb5e</g:item_group_id>
-          <g:brand>FM SHOES</g:brand>
-          <g:age_group>all ages</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
-          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
-          <color>黑</color>
-        </item>        <item>
           <g:id>69684591e520a40014c6b5c1:6968458ff08e28000d008670</g:id>
           <g:title>FM SHOES 馬銜扣輕量厚底軟Q樂福鞋 黑(37-41)</g:title>
           <g:description>        </g:description>
@@ -28281,25 +28224,6 @@
           <g:title>NEUTRAL 全地形機能風瑪莉珍鞋 全黑(36-42)</g:title>
           <g:description>NEUTRAL 全地形機能風瑪莉珍鞋 全黑(36-42)</g:description>
           <g:link>https://www.fmshoes.com.tw/products/69e581684354d82fbce86be7?variation=69e581669b04810010855bfb</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/69e5800da024860b422bcdc8/original.jpg?1776648205=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
-          <g:product_type>NEUTRAL 輕機能系列鞋款 &gt; 戶外機能鞋</g:product_type>
-          <g:custom_label_0>642a66d514ea9a001a4e6c84,628c537cf8a1b90024f10238,63a3d3b70df63a001da2486a,627e1d42a926950021b28100</g:custom_label_0>
-          <g:custom_label_1>628c67614ec0e3001ea783ef</g:custom_label_1>
-          <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
-          <g:price>2080 TWD</g:price>
-          <g:item_group_id>b3a022a4a8c6733f24524c651b34c4259ca05979</g:item_group_id>
-          <g:brand>FM SHOES</g:brand>
-          <g:age_group>all ages</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
-          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
-          <color>全黑</color>
-        </item>        <item>
-          <g:id>69e581684354d82fbce86be7:69e581669b04810010855bfc</g:id>
-          <g:title>NEUTRAL 全地形機能風瑪莉珍鞋 全黑(36-42)</g:title>
-          <g:description>NEUTRAL 全地形機能風瑪莉珍鞋 全黑(36-42)</g:description>
-          <g:link>https://www.fmshoes.com.tw/products/69e581684354d82fbce86be7?variation=69e581669b04810010855bfc</g:link>
           <g:image_link>https://img.shoplineapp.com/media/image_clips/69e5800da024860b422bcdc8/original.jpg?1776648205=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
           <g:product_type>NEUTRAL 輕機能系列鞋款 &gt; 戶外機能鞋</g:product_type>
           <g:custom_label_0>642a66d514ea9a001a4e6c84,628c537cf8a1b90024f10238,63a3d3b70df63a001da2486a,627e1d42a926950021b28100</g:custom_label_0>
