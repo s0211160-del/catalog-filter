@@ -10,7 +10,8 @@ XML_URL = "https://shopline-feeds.s3.amazonaws.com/facebook_featured_products/fm
 TITLE_BLACKLIST = [
     "贈品", "測試", "紅包", "福利品", "牛仔帽", "四分襪", 
     "筒襪", "抗菌彈力棉襪", "開運發財襪", "可麗奶", "購物袋", 
-    "殘膠清潔橡皮擦", "全方位擴鞋楦鞋器", "Ipanema", "Melissa"
+    "殘膠清潔橡皮擦", "全方位擴鞋楦鞋器", "Ipanema", "Melissa", 
+    "羊毛襪"
 ]
 
 # 3. 描述排除關鍵字
