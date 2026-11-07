@@ -8304,7 +8304,7 @@
           <g:custom_label_0>628c67614ec0e3001ea783ef,65dbf57493fd5b001a189882,63a3d4fc9d40e30020e0ad13,642a66d514ea9a001a4e6c84</g:custom_label_0>
           <g:custom_label_1>63a3d3b70df63a001da2486a,63a522cf0b9d1d000e32c553</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>preorder</g:availability>
           <g:price>780 TWD</g:price>
           <g:item_group_id>b0ec3f239a63acbd188ea0896ce35c2aa8bee3ec</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -8324,7 +8324,7 @@
           <g:custom_label_0>628c67614ec0e3001ea783ef,65dbf57493fd5b001a189882,63a3d4fc9d40e30020e0ad13,642a66d514ea9a001a4e6c84</g:custom_label_0>
           <g:custom_label_1>63a3d3b70df63a001da2486a,63a522cf0b9d1d000e32c553</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>preorder</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>780 TWD</g:price>
           <g:item_group_id>b0ec3f239a63acbd188ea0896ce35c2aa8bee3ec</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -12330,6 +12330,26 @@
           <color>米</color>
           <g:size>37</g:size>
         </item>        <item>
+          <g:id>66470f376c0ca90019215f33:66470f359ec601001532b748</g:id>
+          <g:title>NEUTRAL 超輕刷破漂浮懶人鞋 米(36-42)</g:title>
+          <g:description>    版 型 偏小版(大一號購買)   產 地 台灣   鞋 面 厚織帆布面料   內 裏 透氣棉布內裡+透氣泡棉內墊   鞋 底 超輕橡膠防滑刻紋底   重 量 400公克 跟 型     筒 高  筒 圍  踝</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/66470f376c0ca90019215f33?variation=66470f359ec601001532b748</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6957420d877b2f87625d42d5/original.jpg?1767326220=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>限時優惠 &gt; 10.25｜絕版品 $500</g:product_type>
+          <g:custom_label_0>642a66d514ea9a001a4e6c84,628c537cf8a1b90024f10238,63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef</g:custom_label_0>
+          <g:custom_label_1>628c5462c9c9100012ddd597</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>880 TWD</g:price>
+          <g:item_group_id>2b1bc5aa8e5f3f00fe9bd930196d838b4e835380</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>米</color>
+          <g:size>38</g:size>
+        </item>        <item>
           <g:id>66470f376c0ca90019215f33:66470f359ec601001532b749</g:id>
           <g:title>NEUTRAL 超輕刷破漂浮懶人鞋 米(36-42)</g:title>
           <g:description>    版 型 偏小版(大一號購買)   產 地 台灣   鞋 面 厚織帆布面料   內 裏 透氣棉布內裡+透氣泡棉內墊   鞋 底 超輕橡膠防滑刻紋底   重 量 400公克 跟 型     筒 高  筒 圍  踝</g:description>
@@ -15055,26 +15075,6 @@
           <color>米</color>
           <g:size>42</g:size>
         </item>        <item>
-          <g:id>66f52066746f9a000ab3f4ac:66f52064e986ad0009f6a626</g:id>
-          <g:title>FM SHOES 復古尖頭軟皮小貓跟鞋 米(36-43)</g:title>
-          <g:description>        </g:description>
-          <g:link>https://www.fmshoes.com.tw/products/66f52066746f9a000ab3f4ac?variation=66f52064e986ad0009f6a626</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/66f51edcc982ab000b036b66/original.jpg?1727340252</g:image_link>
-          <g:product_type>限時優惠 &gt; 10.25｜絕版品 $500</g:product_type>
-          <g:custom_label_0>63a3d3b70df63a001da2486a,642a66d514ea9a001a4e6c84,627e1d42a926950021b28100,628c67614ec0e3001ea783ef</g:custom_label_0>
-          <g:custom_label_1>628c5462c9c9100012ddd597,63a3d4fc9d40e30020e0ad13</g:custom_label_1>
-          <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
-          <g:price>1480 TWD</g:price>
-          <g:item_group_id>6c5e741ed97c62ac3699758a1898af1589557e29</g:item_group_id>
-          <g:brand>FM SHOES</g:brand>
-          <g:age_group>all ages</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
-          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
-          <color>米</color>
-          <g:size>37</g:size>
-        </item>        <item>
           <g:id>66f5221c1ecde2000d0863fd:66f5221bfb53ab000d738acd</g:id>
           <g:title>FM SHOES 復古尖頭軟皮小貓跟鞋 卡其(36-43)</g:title>
           <g:description>        </g:description>
@@ -15380,7 +15380,7 @@
           <g:custom_label_0>642a66d514ea9a001a4e6c84,628c5462c9c9100012ddd597,627e1d42a926950021b28100,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
           <g:custom_label_1>63a3d3b70df63a001da2486a,63a522cf0b9d1d000e32c553</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>preorder</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1880 TWD</g:price>
           <g:item_group_id>4ed7bc1f8ff4e15e501fd227eb343f9c6724b24e</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -15400,7 +15400,7 @@
           <g:custom_label_0>642a66d514ea9a001a4e6c84,628c5462c9c9100012ddd597,627e1d42a926950021b28100,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
           <g:custom_label_1>63a3d3b70df63a001da2486a,63a522cf0b9d1d000e32c553</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>preorder</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1880 TWD</g:price>
           <g:item_group_id>4ed7bc1f8ff4e15e501fd227eb343f9c6724b24e</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -15420,7 +15420,7 @@
           <g:custom_label_0>642a66d514ea9a001a4e6c84,628c5462c9c9100012ddd597,627e1d42a926950021b28100,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
           <g:custom_label_1>63a3d3b70df63a001da2486a,63a522cf0b9d1d000e32c553</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>preorder</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1880 TWD</g:price>
           <g:item_group_id>4ed7bc1f8ff4e15e501fd227eb343f9c6724b24e</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -15440,7 +15440,7 @@
           <g:custom_label_0>642a66d514ea9a001a4e6c84,628c5462c9c9100012ddd597,627e1d42a926950021b28100,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
           <g:custom_label_1>63a3d3b70df63a001da2486a,63a522cf0b9d1d000e32c553</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>preorder</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1880 TWD</g:price>
           <g:item_group_id>4ed7bc1f8ff4e15e501fd227eb343f9c6724b24e</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -15460,7 +15460,7 @@
           <g:custom_label_0>642a66d514ea9a001a4e6c84,628c5462c9c9100012ddd597,627e1d42a926950021b28100,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
           <g:custom_label_1>63a3d3b70df63a001da2486a,63a522cf0b9d1d000e32c553</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>preorder</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1880 TWD</g:price>
           <g:item_group_id>4ed7bc1f8ff4e15e501fd227eb343f9c6724b24e</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -15560,7 +15560,7 @@
           <g:custom_label_0>642a66d514ea9a001a4e6c84,63a3d3b70df63a001da2486a,628c5462c9c9100012ddd597,627e1d42a926950021b28100</g:custom_label_0>
           <g:custom_label_1>63a3d4fc9d40e30020e0ad13,63a522cf0b9d1d000e32c553</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>preorder</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1880 TWD</g:price>
           <g:item_group_id>079c81cad7bfe61362228b23b3b11f6e2eccbe55</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -15580,7 +15580,7 @@
           <g:custom_label_0>642a66d514ea9a001a4e6c84,63a3d3b70df63a001da2486a,628c5462c9c9100012ddd597,627e1d42a926950021b28100</g:custom_label_0>
           <g:custom_label_1>63a3d4fc9d40e30020e0ad13,63a522cf0b9d1d000e32c553</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>preorder</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1880 TWD</g:price>
           <g:item_group_id>079c81cad7bfe61362228b23b3b11f6e2eccbe55</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -15640,7 +15640,7 @@
           <g:custom_label_0>642a66d514ea9a001a4e6c84,63a3d3b70df63a001da2486a,628c5462c9c9100012ddd597,627e1d42a926950021b28100</g:custom_label_0>
           <g:custom_label_1>63a3d4fc9d40e30020e0ad13,63a522cf0b9d1d000e32c553</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>preorder</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1880 TWD</g:price>
           <g:item_group_id>079c81cad7bfe61362228b23b3b11f6e2eccbe55</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -22908,7 +22908,7 @@
           <g:custom_label_0>628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,628c537cf8a1b90024f10238,627e1d42a926950021b28100</g:custom_label_0>
           <g:custom_label_1>63a3d3b70df63a001da2486a</g:custom_label_1>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>preorder</g:availability>
           <g:price>2980 TWD</g:price>
           <g:item_group_id>6e81c3e9f6eb3d6a009ddcb26530be1a9861edbb</g:item_group_id>
           <g:brand>FM SHOES</g:brand>
@@ -26604,6 +26604,25 @@
           <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
           <color>灰咖</color>
         </item>        <item>
+          <g:id>68edcaad52eb730014008d36:68edcaab8b192e000ae77e4a</g:id>
+          <g:title>FM SHOES 街頭風格輕量厚底綁帶短靴 灰咖(36-42)</g:title>
+          <g:description>FM SHOES 街頭風格輕量厚底綁帶短靴 灰咖(36-42)</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/68edcaad52eb730014008d36?variation=68edcaab8b192e000ae77e4a</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/690d54afeec8a10014f657b1/original.jpg?1762481327=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>FM SHOES 訂製 &gt; 短靴</g:product_type>
+          <g:custom_label_0>63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a,642a66d514ea9a001a4e6c84,627e1d42a926950021b28100</g:custom_label_0>
+          <g:custom_label_1>628c67614ec0e3001ea783ef</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1880 TWD</g:price>
+          <g:item_group_id>6db0d6cbfe86fa585cb8244736cf6456885d7dab</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>灰咖</color>
+        </item>        <item>
           <g:id>68edcb07e9cbaf001678533b:68edcb054e0e57000ace3ac1</g:id>
           <g:title>FM SHOES 街頭風格輕量厚底綁帶短靴 黑(36-42)</g:title>
           <g:description>FM SHOES 街頭風格輕量厚底綁帶短靴 黑(36-42)</g:description>
@@ -27659,25 +27678,6 @@
           <g:title>FM SHOES 全真皮足弓減壓麂皮兩穿饅頭鞋 卡其(36-44)</g:title>
           <g:description>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: </g:description>
           <g:link>https://www.fmshoes.com.tw/products/6902fa747e6139000c1117e4?variation=6902fa7437e2e2001106d0d5</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/6957311ba87c177b9760ef0a/original.jpg?1767321883=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
-          <g:product_type>FM SHOES 訂製 &gt; 平底鞋</g:product_type>
-          <g:custom_label_0>627e1d42a926950021b28100,63a3d3b70df63a001da2486a,63a3d4fc9d40e30020e0ad13,642a66d514ea9a001a4e6c84</g:custom_label_0>
-          <g:custom_label_1>628c67614ec0e3001ea783ef</g:custom_label_1>
-          <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
-          <g:price>2280 TWD</g:price>
-          <g:item_group_id>455f9ec17a4b0c724bc441258ec39fee30c03aa1</g:item_group_id>
-          <g:brand>FM SHOES</g:brand>
-          <g:age_group>all ages</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
-          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
-          <color>卡其</color>
-        </item>        <item>
-          <g:id>6902fa747e6139000c1117e4:6902fa7437e2e2001106d0d6</g:id>
-          <g:title>FM SHOES 全真皮足弓減壓麂皮兩穿饅頭鞋 卡其(36-44)</g:title>
-          <g:description>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: </g:description>
-          <g:link>https://www.fmshoes.com.tw/products/6902fa747e6139000c1117e4?variation=6902fa7437e2e2001106d0d6</g:link>
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6957311ba87c177b9760ef0a/original.jpg?1767321883=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
           <g:product_type>FM SHOES 訂製 &gt; 平底鞋</g:product_type>
           <g:custom_label_0>627e1d42a926950021b28100,63a3d3b70df63a001da2486a,63a3d4fc9d40e30020e0ad13,642a66d514ea9a001a4e6c84</g:custom_label_0>
@@ -30085,6 +30085,24 @@
           <g:title>NEUTRAL 經典學院風MIT德訓鞋 全黑(36-41)</g:title>
           <g:description>NEUTRAL 防潑水厚底小白鞋，經典的米白款式。選用防潑水超纖面料，搭配柔軟Q感厚底設計，既時尚又舒適，為您的步伐注入時尚與實用。</g:description>
           <g:link>https://www.fmshoes.com.tw/products/6966045c11f33b265698bbd3?variation=6966045a11753500165f9f74</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/698d1fd55d78ca963fbee553/original.jpg?1770856405=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>NEUTRAL 輕機能系列鞋款 &gt; 防潑水休閒鞋</g:product_type>
+          <g:custom_label_0>628c67614ec0e3001ea783ef,63a3d3b70df63a001da2486a,642a66d514ea9a001a4e6c84,628c537cf8a1b90024f10238</g:custom_label_0>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1480 TWD</g:price>
+          <g:item_group_id>8551ae630d6b96e3a1147404ee1df34a21c2ff24</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>全黑</color>
+        </item>        <item>
+          <g:id>6966045c11f33b265698bbd3:6966045a11753500165f9f75</g:id>
+          <g:title>NEUTRAL 經典學院風MIT德訓鞋 全黑(36-41)</g:title>
+          <g:description>NEUTRAL 防潑水厚底小白鞋，經典的米白款式。選用防潑水超纖面料，搭配柔軟Q感厚底設計，既時尚又舒適，為您的步伐注入時尚與實用。</g:description>
+          <g:link>https://www.fmshoes.com.tw/products/6966045c11f33b265698bbd3?variation=6966045a11753500165f9f75</g:link>
           <g:image_link>https://img.shoplineapp.com/media/image_clips/698d1fd55d78ca963fbee553/original.jpg?1770856405=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
           <g:product_type>NEUTRAL 輕機能系列鞋款 &gt; 防潑水休閒鞋</g:product_type>
           <g:custom_label_0>628c67614ec0e3001ea783ef,63a3d3b70df63a001da2486a,642a66d514ea9a001a4e6c84,628c537cf8a1b90024f10238</g:custom_label_0>
@@ -33024,6 +33042,25 @@
           <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
           <color>黑</color>
         </item>        <item>
+          <g:id>69e9b3df1887fc3a11870ef1:69e9b3dc0e608b00100c58a9</g:id>
+          <g:title>FM SHOES 英倫風鋸齒真皮增高款樂福鞋 黑(36-40)</g:title>
+          <g:description>            </g:description>
+          <g:link>https://www.fmshoes.com.tw/products/69e9b3df1887fc3a11870ef1?variation=69e9b3dc0e608b00100c58a9</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/69e9db674da0088efe3410b5/original.jpg?1776933735=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
+          <g:product_type>FM SHOES 訂製 &gt; 樂福鞋</g:product_type>
+          <g:custom_label_0>627e1d42a926950021b28100,628c67614ec0e3001ea783ef,642a66d514ea9a001a4e6c84,63a3d4fc9d40e30020e0ad13</g:custom_label_0>
+          <g:custom_label_1>63a522cf0b9d1d000e32c553,63a3d3b70df63a001da2486a</g:custom_label_1>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2280 TWD</g:price>
+          <g:item_group_id>c283bbab5892059bca4899f8a93d31c5abe2702e</g:item_group_id>
+          <g:brand>FM SHOES</g:brand>
+          <g:age_group>all ages</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
+          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+          <color>黑</color>
+        </item>        <item>
           <g:id>69e9b3df1887fc3a11870ef1:69e9b3dc0e608b00100c58aa</g:id>
           <g:title>FM SHOES 英倫風鋸齒真皮增高款樂福鞋 黑(36-40)</g:title>
           <g:description>            </g:description>
@@ -33854,24 +33891,6 @@
           <g:title>FM SHOES 全真皮足弓減壓牛巴革饅頭鞋 杏(36-44)</g:title>
           <g:description>FM SHOES 全真皮足弓減壓牛巴革饅頭鞋 杏(36-44)</g:description>
           <g:link>https://www.fmshoes.com.tw/products/6a0d1a8553f43749f8cdcfaf?variation=6a0d1a82c4453800102d0988</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/6a17ece348ef2e13eff09a46/original.jpg?1779952867=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
-          <g:product_type>FM SHOES 訂製 &gt; 平底鞋</g:product_type>
-          <g:custom_label_0>642a66d514ea9a001a4e6c84,63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef</g:custom_label_0>
-          <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
-          <g:price>2280 TWD</g:price>
-          <g:item_group_id>94d94d1a2ae0ff9252eb1bd6e79c6835c6dfb6af</g:item_group_id>
-          <g:brand>FM SHOES</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:fb_product_category>clothing &amp; accessories &gt; shoes &amp; footwear</g:fb_product_category>
-          <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
-          <color>杏</color>
-        </item>        <item>
-          <g:id>6a0d1a8553f43749f8cdcfaf:6a0d1a82c4453800102d0989</g:id>
-          <g:title>FM SHOES 全真皮足弓減壓牛巴革饅頭鞋 杏(36-44)</g:title>
-          <g:description>FM SHOES 全真皮足弓減壓牛巴革饅頭鞋 杏(36-44)</g:description>
-          <g:link>https://www.fmshoes.com.tw/products/6a0d1a8553f43749f8cdcfaf?variation=6a0d1a82c4453800102d0989</g:link>
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6a17ece348ef2e13eff09a46/original.jpg?1779952867=&amp;owner_id=627e1d404e691000311b0a4f</g:image_link>
           <g:product_type>FM SHOES 訂製 &gt; 平底鞋</g:product_type>
           <g:custom_label_0>642a66d514ea9a001a4e6c84,63a3d4fc9d40e30020e0ad13,63a3d3b70df63a001da2486a,628c67614ec0e3001ea783ef</g:custom_label_0>
